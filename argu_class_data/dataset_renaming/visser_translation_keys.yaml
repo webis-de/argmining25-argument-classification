@@ -1,0 +1,65 @@
+# in every dataset schemes are written slightly different, therefore this way a unified representation is created
+
+ref:
+  Argumentation from interaction of act and person : interaction of act and person
+  Ethotic argument : ethotic
+  Argument from bias : bias
+  Bias ad hominem : bias ad hominem
+  Generic ad hominem : generic ad hominem
+  Pragmatic inconsistency : pragmatic inconsistency
+  Circumstantial ad hominem : circumstantial ad hominem
+  Argument from commitment : commitment
+  Argument from inconsistent commitment: inconsistent commitment
+  Argument from popular opinion: popular opinion
+  Argument from expert opinion: expert opinion
+  Argument from witness testimony : witness testimony
+  Argument from memory : memory
+  Argument from perception : perception
+  Two-person practical reasoning : two-person practical reasoning
+  Argument from position to know : position to know
+  Argument from rules : rules
+  Argument from popular practice: popular practice
+  Argument from sunk costs : sunk costs
+  Practical reasoning from analogy : practical reasoning analogy
+  Argument from distress : distress
+  Argument from need for help : need for help
+  Argument from (positive) consequences: positive consequences
+  Practical reasoning : practical reasoning
+  Argument from waste : waste
+  Argument from fear appeal : fear appeal
+  Pragmatic argument from alternatives: pragmatic alternatives
+  Slippery slope argument : slippery slope
+  Argument from threat : threat
+  Argument from danger appeal : danger appeal
+  Argument from (negative) consequences : negative consequences
+  Argument from consequences : consequences
+  Argument from values: values
+  Argumentation from sacrifice : sacrifice
+  Precedent slippery slope argument : precedent slippery slope
+  Argument from plea for excuse : plea for excuse
+  Argument for an exceptional case : exceptional case
+  Argument from precedent : precedent
+  Argument from arbitrariness of verbal classification : arbitrariness verbal classification
+  Argument from vagueness of verbal classification : vagueness verbal classification
+  Sorites slippery slope argument : sorites slippery slope
+  Verbal slippery slope argument : verbal slippery slope
+  Argument for constitutive-rule claims : constitutive-rule claims
+  Argument from definition to verbal classification : definition verbal classification
+  Argument from verbal classification : verbal classification
+  Argument from gradualism: gradualism
+  Full slippery slope argument : full slippery slope
+  Argument from cause to effect : cause to effect
+  Argument from correlation to cause : correlation to cause
+  Argumentation from the group and its members : group members
+  Argument from composition : composition
+  Argument from division : division
+  Argument from oppositions : oppositions
+  Epistemic argument from ignorance : epistemic ignorance
+  Argument from ignorance : ignorance
+  Argument from evidence to a hypothesis : evidence hypothesis
+  Argument from sign: sign
+  Argument from analogy: analogy
+  Argument from example : example
+  Abductive argumentation scheme : abductive argumentation
+  Argument from alternatives: alternatives
+  Rhetorical argument from oppositions : rhetorical oppositions

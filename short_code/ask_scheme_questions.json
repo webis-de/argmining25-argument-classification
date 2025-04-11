@@ -1,0 +1,107 @@
+{
+    "17": {
+        "children": [
+            "consequences",
+            "32"
+        ],
+        "parents": [],
+        "questions": [
+            "Conclusion is about a course of action",
+            "Conclusion is not specifically action-oriented"
+        ]
+    },
+    "32": {
+        "children": [
+            "values",
+            "47"
+        ],
+        "parents": [
+            "17"
+        ],
+        "questions": [
+            "Argument explicitly mentions values",
+            "Argument is not specifically value-based"
+        ]
+    },
+    "47": {
+        "children": [
+            "cause to effect",
+            "57"
+        ],
+        "parents": [
+            "32"
+        ],
+        "questions": [
+            "Argument relies on a causal relation",
+            "Argument does not specifically rely on causality"
+        ]
+    },
+    "57": {
+        "children": [
+            "58",
+            "alternatives"
+        ],
+        "parents": [
+            "47"
+        ],
+        "questions": [
+            "Case at issue is similar to compared case(s)",
+            "Case at issue is different from compared case(s)"
+        ]
+    },
+    "58": {
+        "children": [
+            "analogy",
+            "example"
+        ],
+        "parents": [
+            "57"
+        ],
+        "questions": [
+            "Argument compares between particular instances",
+            "Argument generalises from a particular instance"
+        ]
+    },
+    "values": {
+        "children": [],
+        "parents": [
+            "32"
+        ],
+        "questions": []
+    },
+    "cause to effect": {
+        "children": [],
+        "parents": [
+            "47"
+        ],
+        "questions": []
+    },
+    "analogy": {
+        "children": [],
+        "parents": [
+            "58"
+        ],
+        "questions": []
+    },
+    "example": {
+        "children": [],
+        "parents": [
+            "58"
+        ],
+        "questions": []
+    },
+    "alternatives": {
+        "children": [],
+        "parents": [
+            "57"
+        ],
+        "questions": []
+    },
+    "consequences": {
+        "children": [],
+        "parents": [
+            "17"
+        ],
+        "questions": []
+    }
+}

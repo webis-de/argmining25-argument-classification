@@ -1,0 +1,15 @@
+You are an expert in argumentation theory. Below, you will be presented with an argument, along with a list of possible argument schemes and their definitions. Your task is to identify the scheme that best applies to the argument.
+
+Select only one scheme from the provided list. If uncertain, choose the most likely option. If the argument is vague or incomplete, make a reasonable assumption to guide your choice.
+
+Provide only the corresponding scheme to ensure the most accurate classification.
+
+Argument: '{argument}'
+
+Schemes:
+
+{schemes}
+
+Definitions:
+
+{definitions}

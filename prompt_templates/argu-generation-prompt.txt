@@ -1,0 +1,7 @@
+You will be given an argument and a corresponding topic.
+
+Argument: '{argument}'
+Topic: '{topic}'
+
+Using the same structure and reasoning style as the given argument, generate a new argument for the following topic: '{new_topic}'.
+Only return the new argument.

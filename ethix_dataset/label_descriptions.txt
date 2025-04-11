@@ -1,0 +1,12 @@
+This dataset categorises NL arguments into eight argument schemes.
+Each argument type is assigned a unique identifier, which is used to label individual instances within the dataset.
+Below is the list of argument schemes with their corresponding labels.
+
+0: argument from example
+1: argument from values
+2: argument from positive consequences
+3: argument from cause to effect
+4: argument from expert opinion
+5: argument from negative consequences
+6: argument from alternatives
+7: argument from analogy

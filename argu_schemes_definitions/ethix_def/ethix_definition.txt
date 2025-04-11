@@ -1,0 +1,54 @@
+#2. Argument from Expert Opinion
+
+P1: Source E is an expert in subject S.
+P2: E asserts that proposition A of subject S is true/false.
+C: A is true/false.
+
+
+#6. Argument from Example
+
+P: In this particular case, a has properties F and G.
+C: So, generally, if x has property F, then it also has G.
+
+
+#7. Argument from Analogy
+
+P1: Generally, case C1 is similar to case C2.
+P2: A is true (false) in case C1.
+C: A is true (false) in case C2.
+
+
+#13. Argument from Alternatives
+
+P1: Either X or Y can be the case.
+P2: X is plausibly not the case.
+C: Y is plausibly the case.
+
+
+#19. Argument from Values
+
+P1: Value V is positive/negative as judged by agent a.
+P2: If V is positive it is a reason to commit to goal G.
+P2': If V is negative it is a reason to not commit to goal G.
+C: V is a reason for agent a to (not) commit to goal G.
+
+
+#28. Argument from Cause to Effect
+
+P1: Generally, if A occurs, then B will (might) occur.
+P2: In this case, A occurs (might occur).
+C: Therefore, in this case, B will (might) occur. 
+
+
+#33.1. Argument from Positive Consequences
+
+P: If A is brought about, good consequences will occur.
+C: Therefore, A should be brought about.
+
+
+#33.2. Argument from Negative Consequences
+
+P: If A is brought about, bad consequences will occur.
+C: Therefore, A should not be brought about.
+
+

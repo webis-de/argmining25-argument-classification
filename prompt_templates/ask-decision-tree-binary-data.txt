@@ -1,0 +1,11 @@
+You are an expert in argumentation theory. You will be presented with an argument and two response options labeled 'Option-A' and 'Option-B'.
+
+Your task is to determine which option best aligns with the argument. Choose only one option. If uncertain, select the one that appears most consistent with the argument. If the argument is vague or incomplete, make a reasonable assumption to guide your choice.
+
+Argument: '{argument}'
+
+Option-A: '{optionA}'
+Option-B: '{optionB}'
+
+Please only enter the option you have selected to ensure the most accurate classification possible.
+

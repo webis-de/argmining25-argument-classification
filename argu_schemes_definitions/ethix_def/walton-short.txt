@@ -1,0 +1,64 @@
+2. Argument from Expert Opinion
+
+Major Premise: Source $E$ is an expert in subject domain $S$ containing proposition $A$.
+Minor Premise: $E$ asserts that proposition $A$ is true (false).
+Conclusion: $A$ is true (false).
+
+
+6. Argument from Example
+
+Premise: In this particular case, the individual $a$ has property $F$ and also property $G$.
+Conclusion: Therefore, generally, if $x$ has property $F$, then it also has property $G$.
+
+
+7. Argument from Analogy
+
+Similarity Premise: Generally, case $C_1$ is similar to case $C_2$.
+Base Premise: $A$ is true (false) in case $C_1$.
+Conclusion: $A$ is true (false) in case $C_2$.
+
+
+13. Argument from Alternatives
+
+Major Premise: Either $X$ or $Y$ can be the case.
+Minor Premise: $X$ is plausibly not the case.
+Conclusion: $Y$ is plausibly the case.
+
+
+19. Argument from Values
+
+This scheme has a positive and negative version.
+
+19.1. Positive Value
+
+Premise 1: Value $V$ is positive as judged by agent $A$ (judgment value).
+Premise 2: The fact that value $V$ is positive affects the interpretation and therefore
+the evaluation of goal $G$ of agent $A$ (if value $V$ is good, it supports commitment to goal $G$).
+Conclusion: $V$ is a reason for retaining commitment to goal $G$.
+
+19.2. Negative Value
+
+Premise 1: Value $V$ is negative as judged by agent $A$ (judgment value).
+Premise 2: The fact that value $V$ is negative affects the interpretation and therefore the evaluation of goal $G$ of agent $A$ (if value $V$ is bad, it goes against commitment to goal $G$).
+Conclusion: $V$ is a reason for retracting commitment to goal $G$.
+
+
+28. Argument from Cause to Effect
+
+Major Premise: Generally, if $A$ occurs, then $B$ will (might) occur.
+Minor Premise: In this case, $A$ occurs (might occur).
+Conclusion: Therefore, in this case, $B$ will (might) occur.
+
+
+33.1. Argument from Positive Consequences
+
+Premise: If $A$ is brought about, good consequences will plausibly occur.
+Conclusion: Therefore, $A$ should be brought about.
+
+
+33.2. Argument from Negative Consequences
+
+Premise: If $A$ is brought about, then bad consequences will occur.
+Conclusion: Therefore, $A$ should not be brought about.
+
+

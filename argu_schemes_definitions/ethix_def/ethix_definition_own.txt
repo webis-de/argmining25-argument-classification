@@ -1,0 +1,28 @@
+#6. Argument from Example
+
+Premise: In this particular case, $a$ has properties $F$ and $G$.
+Conclusion: So, generally, if $x$ has property $F$, then it also has $G$.
+
+
+#19. Argument from Values
+
+Premise-1: Value $V$ is positive/negative as judged by agent $a$.
+Premise-2: If $V$ is positive it is a reason to commit to goal $G$.
+Premise-2': If $V$ is negative it is a reason to not commit to goal $G$.
+Conclusion: $V$ is a reason for agent $a$ to (not) commit to goal $G$.
+
+
+#28. Argument from Cause to Effect
+
+Premise-1: Generally, if $A$ occurs, then $B$ will (might) occur.
+Premise-2: In this case, $A$ occurs (might occur).
+Conclusion: Therefore, in this case, $B$ will (might) occur.
+
+
+#33. Argument from Consequences
+
+Premise: If $A$ is brought about, good (bad) consequences will occur.
+Conclusion: Therefore, $A$ should (not) be brought about.
+
+
+

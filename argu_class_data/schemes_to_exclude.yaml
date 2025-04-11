@@ -1,0 +1,8 @@
+# these schemes are not considered for the underlying model representation
+- default
+- default conflict
+- default rephrase
+- default inference
+- misplaced priorities
+- unfairness
+- fairness

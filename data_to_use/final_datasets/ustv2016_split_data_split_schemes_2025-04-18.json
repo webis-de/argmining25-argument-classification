@@ -1,0 +1,4471 @@
+[
+    {
+        "premise_list": [
+            "Some of them have lots of money outside of our country."
+        ],
+        "claim_list": [
+            "They're leaving."
+        ],
+        "argument": "They're leaving. Some of them have lots of money outside of our country.",
+        "scheme": "consequences",
+        "argument_id": "d54c653c-66b0-47f3-8d77-bd48667c5355",
+        "id": "356877",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "They're leaving.",
+            "Some of them have lots of money outside of our country."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We're putting a lot of people out of work."
+        ],
+        "claim_list": [
+            "Our energy policies are a disaster."
+        ],
+        "argument": "We're putting a lot of people out of work. Our energy policies are a disaster.",
+        "scheme": "consequences",
+        "argument_id": "ec2f3514-e60e-48b4-b63f-9d5e28f6ab29",
+        "id": "356349",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "We're putting a lot of people out of work.",
+            "Our energy policies are a disaster."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They ca n't get together."
+        ],
+        "claim_list": [
+            "They can't bring their money back into our country."
+        ],
+        "argument": "They can't bring their money back into our country. They ca n't get together.",
+        "scheme": "consequences",
+        "argument_id": "6a06360e-7d81-4025-bd4a-f93432e9005e",
+        "id": "356904",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "They can't bring their money back into our country.",
+            "They ca n't get together."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "China should solve that problem for USA."
+        ],
+        "claim_list": [
+            "TRUMP can't take anything off the table."
+        ],
+        "argument": "TRUMP can't take anything off the table. China should solve that problem for USA.",
+        "scheme": "consequences",
+        "argument_id": "a320bb61-d225-4735-b7d8-74161f7e9348",
+        "id": "359732",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "TRUMP can't take anything off the table.",
+            "China should solve that problem for USA."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "USA are providing tremendous service."
+        ],
+        "claim_list": [
+            "Japan, Germany, South Korea, Saudi Arabia should be paying USA."
+        ],
+        "argument": "Japan, Germany, South Korea, Saudi Arabia should be paying USA. USA are providing tremendous service.",
+        "scheme": "consequences",
+        "argument_id": "00c5b0bb-2b12-4cf1-9d45-694e18a46feb",
+        "id": "359628",
+        "file_id": [
+            "13995"
+        ],
+        "argument_list": [
+            "Japan, Germany, South Korea, Saudi Arabia should be paying USA.",
+            "USA are providing tremendous service."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "That's a lot of jobs."
+        ],
+        "claim_list": [
+            "We can build a new modern electric grid."
+        ],
+        "argument": "We can build a new modern electric grid. That's a lot of jobs.",
+        "scheme": "consequences",
+        "argument_id": "deb3f548-767d-43c1-9c89-630d4ff14c55",
+        "id": "356324",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "We can build a new modern electric grid.",
+            "That's a lot of jobs."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The deal with Iran will lead to nuclear problems."
+        ],
+        "claim_list": [
+            "This is one of the worst deals ever made by any country in history."
+        ],
+        "argument": "This is one of the worst deals ever made by any country in history. The deal with Iran will lead to nuclear problems.",
+        "scheme": "consequences",
+        "argument_id": "1714d797-9dda-41f7-a4c4-988c507573c7",
+        "id": "359787",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "This is one of the worst deals ever made by any country in history.",
+            "The deal with Iran will lead to nuclear problems."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP was able to get OBAMA to produce it."
+        ],
+        "claim_list": [
+            "TRUMP says nothing."
+        ],
+        "argument": "TRUMP says nothing. TRUMP was able to get OBAMA to produce it.",
+        "scheme": "consequences",
+        "argument_id": "3d31543b-7cb5-4806-b1e2-229355b88452",
+        "id": "358573",
+        "file_id": [
+            "13990"
+        ],
+        "argument_list": [
+            "TRUMP says nothing.",
+            "TRUMP was able to get OBAMA to produce it."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It would be the most extreme version, the biggest tax cuts for the top percent of the people in this country than we've ever had."
+        ],
+        "claim_list": [
+            "The kind of plan that TRUMP has put forth would be trickle-down economics all over again."
+        ],
+        "argument": "It would be the most extreme version, the biggest tax cuts for the top percent of the people in this country than we've ever had. The kind of plan that TRUMP has put forth would be trickle-down economics all over again.",
+        "scheme": "consequences",
+        "argument_id": "0338d2d5-72bd-42e0-ab7b-06bcdc9a9ae5",
+        "id": "355711",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "It would be the most extreme version, the biggest tax cuts for the top percent of the people in this country than we've ever had.",
+            "The kind of plan that TRUMP has put forth would be trickle-down economics all over again."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They're on the front lines."
+        ],
+        "claim_list": [
+            "Donald has consistently insulted Muslims abroad, Muslims at home, when we need to be cooperating with Muslim nations and with the American Muslim community."
+        ],
+        "argument": "Donald has consistently insulted Muslims abroad, Muslims at home, when we need to be cooperating with Muslim nations and with the American Muslim community. They're on the front lines.",
+        "scheme": "consequences",
+        "argument_id": "d1bed641-7f29-4b33-9c75-ede32cd63884",
+        "id": "359193",
+        "file_id": [
+            "13993"
+        ],
+        "argument_list": [
+            "Donald has consistently insulted Muslims abroad, Muslims at home, when we need to be cooperating with Muslim nations and with the American Muslim community.",
+            "They're on the front lines."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "People's future does depend on the election."
+        ],
+        "claim_list": [
+            "CLINTON sure hopes people will get out and vote as though their future depended on it."
+        ],
+        "argument": "CLINTON sure hopes people will get out and vote as though their future depended on it. People's future does depend on the election.",
+        "scheme": "consequences",
+        "argument_id": "929190aa-cbef-4275-b2f3-2b6921be78c9",
+        "id": "360193",
+        "file_id": [
+            "14001"
+        ],
+        "argument_list": [
+            "CLINTON sure hopes people will get out and vote as though their future depended on it.",
+            "People's future does depend on the election."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "There's a lot that we should be proud of and we should be supporting and lifting up."
+        ],
+        "claim_list": [
+            "It's really unfortunate that TRUMP paints such a dire negative picture of black communities in our country."
+        ],
+        "argument": "It's really unfortunate that TRUMP paints such a dire negative picture of black communities in our country. There's a lot that we should be proud of and we should be supporting and lifting up.",
+        "scheme": "consequences",
+        "argument_id": "09fdfd06-1696-42e8-884d-050bfb0fd01b",
+        "id": "358077",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "It's really unfortunate that TRUMP paints such a dire negative picture of black communities in our country.",
+            "There's a lot that we should be proud of and we should be supporting and lifting up."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Stop-and-frisk largely singled out black and Hispanic young men."
+        ],
+        "claim_list": [
+            "Stop-and-frisk was ruled unconstitutional in New York."
+        ],
+        "argument": "Stop-and-frisk was ruled unconstitutional in New York. Stop-and-frisk largely singled out black and Hispanic young men.",
+        "scheme": "consequences",
+        "argument_id": "d50ee42a-0c97-4458-b313-7b835e96728a",
+        "id": "357927",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "Stop-and-frisk was ruled unconstitutional in New York.",
+            "Stop-and-frisk largely singled out black and Hispanic young men."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [],
+        "claim_list": [
+            "We have to do a much better job at giving companies incentives to build new companies or to expand."
+        ],
+        "argument": "We have to do a much better job at giving companies incentives to build new companies or to expand.",
+        "scheme": "consequences",
+        "argument_id": "f6711ebf-8a60-42d9-88c5-e53b4707a1d6",
+        "id": "356379",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "We have to do a much better job at giving companies incentives to build new companies or to expand."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The people that are most affected by what's happening are African-American and Hispanic people.",
+            "It's very unfair to African-American and Hispanic people what our politicians are allowing to happen."
+        ],
+        "claim_list": [
+            "We need law and order in the inner cities."
+        ],
+        "argument": "The people that are most affected by what's happening are African-American and Hispanic people. We need law and order in the inner cities. It's very unfair to African-American and Hispanic people what our politicians are allowing to happen.",
+        "scheme": "consequences",
+        "argument_id": "0f99b11d-60b4-4502-9931-7db3dc7c5629",
+        "id": "358052",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "The people that are most affected by what's happening are African-American and Hispanic people.",
+            "We need law and order in the inner cities.",
+            "It's very unfair to African-American and Hispanic people what our politicians are allowing to happen."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Housing did collapse."
+        ],
+        "claim_list": [
+            "TRUMP was one of the people who rooted for the housing crisis."
+        ],
+        "argument": "TRUMP was one of the people who rooted for the housing crisis. Housing did collapse.",
+        "scheme": "consequences",
+        "argument_id": "ec9925d7-40b8-4720-acf7-431901cf7fd0",
+        "id": "356257",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "TRUMP was one of the people who rooted for the housing crisis.",
+            "Housing did collapse."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They are bad people that shouldn't have guns."
+        ],
+        "claim_list": [
+            "The argument is that we have to take the guns away from these people that have them."
+        ],
+        "argument": "They are bad people that shouldn't have guns. The argument is that we have to take the guns away from these people that have them.",
+        "scheme": "consequences",
+        "argument_id": "99f11667-0549-4895-b3cc-de42681a8ee4",
+        "id": "357963",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "They are bad people that shouldn't have guns.",
+            "The argument is that we have to take the guns away from these people that have them."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "You take the gun away from criminals that shouldn't be having it."
+        ],
+        "claim_list": [
+            "Whether or not in a place like Chicago you do stop and frisk, which worked very well, Mayor Giuliani is here, worked very well in New York."
+        ],
+        "argument": "Whether or not in a place like Chicago you do stop and frisk, which worked very well, Mayor Giuliani is here, worked very well in New York. You take the gun away from criminals that shouldn't be having it.",
+        "scheme": "consequences",
+        "argument_id": "d73d59d0-59e9-4a50-859f-c43af4e50a5b",
+        "id": "357894",
+        "file_id": [
+            "13987"
+        ],
+        "argument_list": [
+            "Whether or not in a place like Chicago you do stop and frisk, which worked very well, Mayor Giuliani is here, worked very well in New York.",
+            "You take the gun away from criminals that shouldn't be having it."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "There's nobody in our government to fight them.",
+            "We have a very good fight.",
+            "We have a winning fight."
+        ],
+        "claim_list": [
+            "They're devaluing their currency."
+        ],
+        "argument": "They're devaluing their currency. There's nobody in our government to fight them. We have a very good fight. We have a winning fight.",
+        "scheme": "consequences",
+        "argument_id": "93705525-de31-4a78-b9f8-c4ea53e82675",
+        "id": "355593",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "They're devaluing their currency.",
+            "There's nobody in our government to fight them.",
+            "We have a very good fight.",
+            "We have a winning fight."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "One shouldn't have a profit motivation to fill prison cells with young Americans."
+        ],
+        "claim_list": [
+            "CLINTON is glad that USA are ending private prisons in the federal system."
+        ],
+        "argument": "CLINTON is glad that USA are ending private prisons in the federal system. One shouldn't have a profit motivation to fill prison cells with young Americans.",
+        "scheme": "consequences",
+        "argument_id": "6a9c75ad-26b6-42ac-a458-af91d6cb54b4",
+        "id": "358152",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "CLINTON is glad that USA are ending private prisons in the federal system.",
+            "One shouldn't have a profit motivation to fill prison cells with young Americans."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It's going to destabilize the Middle East."
+        ],
+        "claim_list": [
+            "It's a terrible and a stupid thing."
+        ],
+        "argument": "It's a terrible and a stupid thing. It's going to destabilize the Middle East.",
+        "scheme": "consequences",
+        "argument_id": "8e298bd3-7ef0-408a-a0ba-e147d9b9101b",
+        "id": "359410",
+        "file_id": [
+            "13994"
+        ],
+        "argument_list": [
+            "It's a terrible and a stupid thing.",
+            "It's going to destabilize the Middle East."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Because of bureaucratic red tape."
+        ],
+        "claim_list": [
+            "They can't bring their money back into our country."
+        ],
+        "argument": "They can't bring their money back into our country. Because of bureaucratic red tape.",
+        "scheme": "consequences",
+        "argument_id": "1d89bcfd-1d8b-438a-a703-f374286da195",
+        "id": "356897",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "They can't bring their money back into our country.",
+            "Because of bureaucratic red tape."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Our country is losing so much in terms of paying off our debt."
+        ],
+        "claim_list": [
+            "Our energy policies are a disaster."
+        ],
+        "argument": "Our energy policies are a disaster. Our country is losing so much in terms of paying off our debt.",
+        "scheme": "consequences",
+        "argument_id": "50be37bc-8a43-46d1-acda-1707803a895f",
+        "id": "356356",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "Our energy policies are a disaster.",
+            "Our country is losing so much in terms of paying off our debt."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We have to restore trust."
+        ],
+        "claim_list": [
+            "We have to make sure they respect the communities and the communities respect them."
+        ],
+        "argument": "We have to restore trust. We have to make sure they respect the communities and the communities respect them.",
+        "scheme": "consequences",
+        "argument_id": "ce45de63-dbd0-430f-be13-05344c38f3a2",
+        "id": "357805",
+        "file_id": [
+            "13986"
+        ],
+        "argument_list": [
+            "We have to restore trust.",
+            "We have to make sure they respect the communities and the communities respect them."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "These people are felons."
+        ],
+        "claim_list": [
+            "The argument is that we have to take the guns away from these people that have them."
+        ],
+        "argument": "The argument is that we have to take the guns away from these people that have them. These people are felons.",
+        "scheme": "consequences",
+        "argument_id": "fe39098e-e8eb-4e91-b55e-5265d4068cfa",
+        "id": "357966",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "The argument is that we have to take the guns away from these people that have them.",
+            "These people are felons."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Clearly, as TRUMP just admitted, TRUMP knew TRUMP was going to stand on this debate stage, and HOLT was going to be asking us questions."
+        ],
+        "claim_list": [
+            "TRUMP tried to put the whole racist birther lie to bed."
+        ],
+        "argument": "Clearly, as TRUMP just admitted, TRUMP knew TRUMP was going to stand on this debate stage, and HOLT was going to be asking us questions. TRUMP tried to put the whole racist birther lie to bed.",
+        "scheme": "cause to effect",
+        "argument_id": "2abe77f5-25f2-4a68-9073-7f4bc5f1c0e0",
+        "id": "358604",
+        "file_id": [
+            "13990"
+        ],
+        "argument_list": [
+            "Clearly, as TRUMP just admitted, TRUMP knew TRUMP was going to stand on this debate stage, and HOLT was going to be asking us questions.",
+            "TRUMP tried to put the whole racist birther lie to bed."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "USA have not been updating from the new standpoint."
+        ],
+        "claim_list": [
+            "Russia has a much newer capability than USA do."
+        ],
+        "argument": "Russia has a much newer capability than USA do. USA have not been updating from the new standpoint.",
+        "scheme": "cause to effect",
+        "argument_id": "58c2265f-0ccb-4cd7-be60-2266229e1db1",
+        "id": "359696",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "Russia has a much newer capability than USA do.",
+            "USA have not been updating from the new standpoint."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We don't have people that know what they're doing."
+        ],
+        "claim_list": [
+            "Products for military come in at costs that are so far above what they were supposed to be."
+        ],
+        "argument": "We don't have people that know what they're doing. Products for military come in at costs that are so far above what they were supposed to be.",
+        "scheme": "cause to effect",
+        "argument_id": "f4ece966-be44-48cd-b435-570ba4900210",
+        "id": "357700",
+        "file_id": [
+            "13985"
+        ],
+        "argument_list": [
+            "We don't have people that know what they're doing.",
+            "Products for military come in at costs that are so far above what they were supposed to be."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "NRA is protecting the Second Amendment.",
+            "NRA are very, very good people."
+        ],
+        "claim_list": [
+            "TRUMP is very proud of the endorsement of the NRA."
+        ],
+        "argument": "NRA is protecting the Second Amendment. NRA are very, very good people. TRUMP is very proud of the endorsement of the NRA.",
+        "scheme": "cause to effect",
+        "argument_id": "3a59562d-9e45-4b4a-a701-1cc8ce6a34b1",
+        "id": "358250",
+        "file_id": [
+            "13989"
+        ],
+        "argument_list": [
+            "NRA is protecting the Second Amendment.",
+            "NRA are very, very good people.",
+            "TRUMP is very proud of the endorsement of the NRA."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Tax policies created a perfect storm."
+        ],
+        "claim_list": [
+            "The Great Recession was in large part because of tax policies."
+        ],
+        "argument": "Tax policies created a perfect storm. The Great Recession was in large part because of tax policies.",
+        "scheme": "cause to effect",
+        "argument_id": "21063f6d-8355-40eb-9508-59217279d176",
+        "id": "356246",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "Tax policies created a perfect storm.",
+            "The Great Recession was in large part because of tax policies."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We have a trade deficit with all of the countries that we do business with, of almost $ 800 billion a year."
+        ],
+        "claim_list": [
+            "It's the kind of thinking that our country needs."
+        ],
+        "argument": "It's the kind of thinking that our country needs. We have a trade deficit with all of the countries that we do business with, of almost $ 800 billion a year.",
+        "scheme": "cause to effect",
+        "argument_id": "48082d17-cf25-49c2-b3e9-ab7c88cf2d7c",
+        "id": "357139",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "It's the kind of thinking that our country needs.",
+            "We have a trade deficit with all of the countries that we do business with, of almost $ 800 billion a year."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We have people that have no idea as to what to do and how to buy."
+        ],
+        "claim_list": [
+            "When we look at the budget, the budget is bad to a large extent."
+        ],
+        "argument": "When we look at the budget, the budget is bad to a large extent. We have people that have no idea as to what to do and how to buy.",
+        "scheme": "cause to effect",
+        "argument_id": "a94aa100-d7a1-4249-8ecf-fcc48477478a",
+        "id": "357705",
+        "file_id": [
+            "13985"
+        ],
+        "argument_list": [
+            "When we look at the budget, the budget is bad to a large extent.",
+            "We have people that have no idea as to what to do and how to buy."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "People are pouring into the USA."
+        ],
+        "claim_list": [
+            "Americans are losing their jobs."
+        ],
+        "argument": "Americans are losing their jobs. People are pouring into the USA.",
+        "scheme": "cause to effect",
+        "argument_id": "b6b00ea9-429d-4c14-8d45-0bc231ec8576",
+        "id": "360216",
+        "file_id": [
+            "14001"
+        ],
+        "argument_list": [
+            "Americans are losing their jobs.",
+            "People are pouring into the USA."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We have a country that's doing so badly."
+        ],
+        "claim_list": [
+            "It's the kind of thinking that our country needs."
+        ],
+        "argument": "We have a country that's doing so badly. It's the kind of thinking that our country needs.",
+        "scheme": "cause to effect",
+        "argument_id": "f59d6b66-9f2f-4bd8-a389-35126fd27138",
+        "id": "357134",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "We have a country that's doing so badly.",
+            "It's the kind of thinking that our country needs."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We can deploy a half a billion more solar panels."
+        ],
+        "claim_list": [
+            "We can have enough clean energy to power every home."
+        ],
+        "argument": "We can deploy a half a billion more solar panels. We can have enough clean energy to power every home.",
+        "scheme": "cause to effect",
+        "argument_id": "0280d953-3ba4-455e-9651-c4f4a8cf38e7",
+        "id": "356317",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "We can deploy a half a billion more solar panels.",
+            "We can have enough clean energy to power every home."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "These countries, especially China, are taking Americans' jobs."
+        ],
+        "claim_list": [
+            "USA is in deep trouble."
+        ],
+        "argument": "USA is in deep trouble. These countries, especially China, are taking Americans' jobs.",
+        "scheme": "cause to effect",
+        "argument_id": "b53b9f78-0d3d-4ebb-bb34-963ee04871f5",
+        "id": "355798",
+        "file_id": [
+            "13977"
+        ],
+        "argument_list": [
+            "USA is in deep trouble.",
+            "These countries, especially China, are taking Americans' jobs."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "OBAMA and CLINTON created a vacuum the way they got out of Iraq."
+        ],
+        "claim_list": [
+            "ISIS was formed."
+        ],
+        "argument": "OBAMA and CLINTON created a vacuum the way they got out of Iraq. ISIS was formed.",
+        "scheme": "cause to effect",
+        "argument_id": "afe486b4-3b8c-4f85-bbc1-8a59bbdb2038",
+        "id": "359072",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "OBAMA and CLINTON created a vacuum the way they got out of Iraq.",
+            "ISIS was formed."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Clearly we're facing at this point two different kinds of adversaries."
+        ],
+        "claim_list": [
+            "Cyber security, cyber warfare will be one of the biggest challenges facing the next president."
+        ],
+        "argument": "Cyber security, cyber warfare will be one of the biggest challenges facing the next president. Clearly we're facing at this point two different kinds of adversaries.",
+        "scheme": "cause to effect",
+        "argument_id": "0e488449-6420-4f51-872d-386dd1cd8168",
+        "id": "358751",
+        "file_id": [
+            "13991"
+        ],
+        "argument_list": [
+            "Cyber security, cyber warfare will be one of the biggest challenges facing the next president.",
+            "Clearly we're facing at this point two different kinds of adversaries."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The NAFTA agreement is defective."
+        ],
+        "claim_list": [
+            "USA is in deep trouble."
+        ],
+        "argument": "USA is in deep trouble. The NAFTA agreement is defective.",
+        "scheme": "cause to effect",
+        "argument_id": "24f27ee8-dbac-4fad-af62-c6a95db7ae0a",
+        "id": "355842",
+        "file_id": [
+            "13977"
+        ],
+        "argument_list": [
+            "USA is in deep trouble.",
+            "The NAFTA agreement is defective."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "RAHAMI is still alive.",
+            "Which may prove to be an intelligence benefit."
+        ],
+        "claim_list": [
+            "We may find out more information."
+        ],
+        "argument": "We may find out more information. RAHAMI is still alive. Which may prove to be an intelligence benefit.",
+        "scheme": "cause to effect",
+        "argument_id": "c1dc6afd-18f9-416d-a595-f06d00432dfc",
+        "id": "359170",
+        "file_id": [
+            "13993"
+        ],
+        "argument_list": [
+            "We may find out more information.",
+            "RAHAMI is still alive.",
+            "Which may prove to be an intelligence benefit."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Too many military-style weapons on the streets is something TRUMP has supported along with the gun lobby."
+        ],
+        "claim_list": [
+            "Right now there are too many military-style weapons on the streets."
+        ],
+        "argument": "Right now there are too many military-style weapons on the streets. Too many military-style weapons on the streets is something TRUMP has supported along with the gun lobby.",
+        "scheme": "cause to effect",
+        "argument_id": "03dc6ad7-0f7c-4726-9281-0215912adcfd",
+        "id": "358167",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "Right now there are too many military-style weapons on the streets.",
+            "Too many military-style weapons on the streets is something TRUMP has supported along with the gun lobby."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "That's being ripped off by every single country in the world."
+        ],
+        "claim_list": [
+            "We have a country that's doing so badly."
+        ],
+        "argument": "That's being ripped off by every single country in the world. We have a country that's doing so badly.",
+        "scheme": "cause to effect",
+        "argument_id": "ebe48c37-a018-4ee1-9538-c445e49bc9e5",
+        "id": "357128",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "That's being ripped off by every single country in the world.",
+            "We have a country that's doing so badly."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They responded so quickly, so professionally to the attacks that occurred by Rahami.",
+            "They brought him down.",
+            "We may find out more information."
+        ],
+        "claim_list": [
+            "CLINTON was so proud of law enforcement in New York, in Minnesota, in New Jersey."
+        ],
+        "argument": "CLINTON was so proud of law enforcement in New York, in Minnesota, in New Jersey. They responded so quickly, so professionally to the attacks that occurred by Rahami. They brought him down. We may find out more information.",
+        "scheme": "cause to effect",
+        "argument_id": "070be017-7fd7-4634-a2b2-fd45661d5633",
+        "id": "359164",
+        "file_id": [
+            "13993"
+        ],
+        "argument_list": [
+            "CLINTON was so proud of law enforcement in New York, in Minnesota, in New Jersey.",
+            "They responded so quickly, so professionally to the attacks that occurred by Rahami.",
+            "They brought him down.",
+            "We may find out more information."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The oil was their primary source of income."
+        ],
+        "claim_list": [
+            "Had USA taken the oil, ISIS would not have been able to form either."
+        ],
+        "argument": "Had USA taken the oil, ISIS would not have been able to form either. The oil was their primary source of income.",
+        "scheme": "cause to effect",
+        "argument_id": "c3d83e0a-0cba-4fb6-a2e0-7ae0747de14f",
+        "id": "359101",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "Had USA taken the oil, ISIS would not have been able to form either.",
+            "The oil was their primary source of income."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP's tax cut is the biggest since Ronald Reagan."
+        ],
+        "claim_list": [
+            "It will create tremendous numbers of new jobs."
+        ],
+        "argument": "TRUMP's tax cut is the biggest since Ronald Reagan. It will create tremendous numbers of new jobs.",
+        "scheme": "cause to effect",
+        "argument_id": "c37ac687-9c8d-4a8c-ba04-6620e5bb4e43",
+        "id": "356655",
+        "file_id": [
+            "13981"
+        ],
+        "argument_list": [
+            "TRUMP's tax cut is the biggest since Ronald Reagan.",
+            "It will create tremendous numbers of new jobs."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Politicians like Secretary Clinton won't allow them to bring the money back."
+        ],
+        "claim_list": [
+            "They can't bring the money back from the overseas."
+        ],
+        "argument": "They can't bring the money back from the overseas. Politicians like Secretary Clinton won't allow them to bring the money back.",
+        "scheme": "cause to effect",
+        "argument_id": "7b523b61-56eb-452b-90de-9cc0ea3c5146",
+        "id": "356849",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "They can't bring the money back from the overseas.",
+            "Politicians like Secretary Clinton won't allow them to bring the money back."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "OBAMA and CLINTON created a vacuum the way they got out of Iraq."
+        ],
+        "claim_list": [
+            "ISIS would n't have even been formed if OBAMA and CLINTON left some troops behind, like 10,000 or maybe something more than that."
+        ],
+        "argument": "OBAMA and CLINTON created a vacuum the way they got out of Iraq. ISIS would n't have even been formed if OBAMA and CLINTON left some troops behind, like 10,000 or maybe something more than that.",
+        "scheme": "cause to effect",
+        "argument_id": "ddae0b35-f02a-4e62-a3aa-59ef549cf662",
+        "id": "359084",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "OBAMA and CLINTON created a vacuum the way they got out of Iraq.",
+            "ISIS would n't have even been formed if OBAMA and CLINTON left some troops behind, like 10,000 or maybe something more than that."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "CLINTON spent a year-and-a-half putting together a coalition that included Russia and China to impose the toughest sanctions on Iran."
+        ],
+        "claim_list": [
+            "USA did drive Iranians to the negotiating table."
+        ],
+        "argument": "CLINTON spent a year-and-a-half putting together a coalition that included Russia and China to impose the toughest sanctions on Iran. USA did drive Iranians to the negotiating table.",
+        "scheme": "cause to effect",
+        "argument_id": "242d3c33-89cd-4439-817f-1246c388eee7",
+        "id": "359505",
+        "file_id": [
+            "13995"
+        ],
+        "argument_list": [
+            "CLINTON spent a year-and-a-half putting together a coalition that included Russia and China to impose the toughest sanctions on Iran.",
+            "USA did drive Iranians to the negotiating table."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The wealthy are going to expand their companies."
+        ],
+        "claim_list": [
+            "The wealthy are going to do a tremendous job."
+        ],
+        "argument": "The wealthy are going to expand their companies. The wealthy are going to do a tremendous job.",
+        "scheme": "cause to effect",
+        "argument_id": "777c5e81-0ee4-40fa-a7f9-83591a816e64",
+        "id": "356828",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "The wealthy are going to expand their companies.",
+            "The wealthy are going to do a tremendous job."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "That starts with Secretary Clinton."
+        ],
+        "claim_list": [
+            "We have no leadership."
+        ],
+        "argument": "We have no leadership. That starts with Secretary Clinton.",
+        "scheme": "cause to effect",
+        "argument_id": "62af74fb-8376-4a43-a23e-eaec8844b3ba",
+        "id": "356931",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "We have no leadership.",
+            "That starts with Secretary Clinton."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "What these countries, especially China, are doing to the USA is a very, very sad thing."
+        ],
+        "claim_list": [
+            "USA is in deep trouble."
+        ],
+        "argument": "USA is in deep trouble. What these countries, especially China, are doing to the USA is a very, very sad thing.",
+        "scheme": "cause to effect",
+        "argument_id": "ff2c36d7-3a10-472a-ba02-bc238516ed48",
+        "id": "355792",
+        "file_id": [
+            "13977"
+        ],
+        "argument_list": [
+            "USA is in deep trouble.",
+            "What these countries, especially China, are doing to the USA is a very, very sad thing."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We enter our last segment on the subject of securing America."
+        ],
+        "claim_list": [
+            "What TRUMP said about nuclear weapons leads to HOLT's next question."
+        ],
+        "argument": "We enter our last segment on the subject of securing America. What TRUMP said about nuclear weapons leads to HOLT's next question.",
+        "scheme": "cause to effect",
+        "argument_id": "70024eb0-b908-4222-b199-a9a550523fe8",
+        "id": "359679",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "We enter our last segment on the subject of securing America.",
+            "What TRUMP said about nuclear weapons leads to HOLT's next question."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "More and more nations."
+        ],
+        "claim_list": [
+            "Right now it's getting tougher and tougher to defeat ISIS."
+        ],
+        "argument": "Right now it's getting tougher and tougher to defeat ISIS. More and more nations.",
+        "scheme": "cause to effect",
+        "argument_id": "1c93b8e5-261d-4398-999e-9828ac04bbd7",
+        "id": "359908",
+        "file_id": [
+            "13997"
+        ],
+        "argument_list": [
+            "Right now it's getting tougher and tougher to defeat ISIS.",
+            "More and more nations."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "PUTIN is playing a really tough, long game here."
+        ],
+        "claim_list": [
+            "There's no doubt now that Russia has used cyber attacks against all kinds of organizations in our country."
+        ],
+        "argument": "There's no doubt now that Russia has used cyber attacks against all kinds of organizations in our country. PUTIN is playing a really tough, long game here.",
+        "scheme": "cause to effect",
+        "argument_id": "e4162ee6-0ca7-4c37-8d03-7edd10340958",
+        "id": "358772",
+        "file_id": [
+            "13991"
+        ],
+        "argument_list": [
+            "There's no doubt now that Russia has used cyber attacks against all kinds of organizations in our country.",
+            "PUTIN is playing a really tough, long game here."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The wealthy are going to expand their companies."
+        ],
+        "claim_list": [
+            "The wealthy are going create tremendous jobs."
+        ],
+        "argument": "The wealthy are going create tremendous jobs. The wealthy are going to expand their companies.",
+        "scheme": "cause to effect",
+        "argument_id": "36ab24cb-db7d-4168-8edf-ffb6580e71b5",
+        "id": "356824",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "The wealthy are going create tremendous jobs.",
+            "The wealthy are going to expand their companies."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We've had 25 years of very good cooperation."
+        ],
+        "claim_list": [
+            "In fact, violent crime is one-half of what it was in 1991."
+        ],
+        "argument": "In fact, violent crime is one-half of what it was in 1991. We've had 25 years of very good cooperation.",
+        "scheme": "cause to effect",
+        "argument_id": "a06a29f1-d418-44e4-a460-5bf3adff9e59",
+        "id": "358107",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "In fact, violent crime is one-half of what it was in 1991.",
+            "We've had 25 years of very good cooperation."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "These countries, especially China, are doing things that USA don't do."
+        ],
+        "claim_list": [
+            "USA is in deep trouble."
+        ],
+        "argument": "USA is in deep trouble. These countries, especially China, are doing things that USA don't do.",
+        "scheme": "cause to effect",
+        "argument_id": "d33f1c06-64ae-4bb1-a516-a7a404bc9c1f",
+        "id": "355807",
+        "file_id": [
+            "13977"
+        ],
+        "argument_list": [
+            "USA is in deep trouble.",
+            "These countries, especially China, are doing things that USA don't do."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We're working with NATO, the longest military alliance in the history of the world, to really turn our attention to terrorism."
+        ],
+        "claim_list": [
+            "That means we've got to work more closely with our allies, and that's something that TRUMP has been very dismissive of."
+        ],
+        "argument": "That means we've got to work more closely with our allies, and that's something that TRUMP has been very dismissive of. We're working with NATO, the longest military alliance in the history of the world, to really turn our attention to terrorism.",
+        "scheme": "example",
+        "argument_id": "ae620785-9360-4f1e-9058-144964a9a1fb",
+        "id": "359183",
+        "file_id": [
+            "13993"
+        ],
+        "argument_list": [
+            "That means we've got to work more closely with our allies, and that's something that TRUMP has been very dismissive of.",
+            "We're working with NATO, the longest military alliance in the history of the world, to really turn our attention to terrorism."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It shows income\u2014in fact, the income\u2014I just looked today\u2014the income is filed at $ 694 million for this past year, $ 694 million."
+        ],
+        "claim_list": [
+            "You will learn more about Donald Trump by going down to the federal elections, where TRUMP filed a 104-page essentially financial statement of sorts, the forms that they have."
+        ],
+        "argument": "You will learn more about Donald Trump by going down to the federal elections, where TRUMP filed a 104-page essentially financial statement of sorts, the forms that they have. It shows income\u2014in fact, the income\u2014I just looked today\u2014the income is filed at $ 694 million for this past year, $ 694 million.",
+        "scheme": "example",
+        "argument_id": "6d586cbc-ee2a-4512-ae6b-25d38dd27e6a",
+        "id": "357118",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "You will learn more about Donald Trump by going down to the federal elections, where TRUMP filed a 104-page essentially financial statement of sorts, the forms that they have.",
+            "It shows income\u2014in fact, the income\u2014I just looked today\u2014the income is filed at $ 694 million for this past year, $ 694 million."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Tax policies failed to invest in the middle class."
+        ],
+        "claim_list": [
+            "Tax policies created a perfect storm."
+        ],
+        "argument": "Tax policies failed to invest in the middle class. Tax policies created a perfect storm.",
+        "scheme": "example",
+        "argument_id": "8aad78d9-3136-4cd7-841d-417ac74e6b97",
+        "id": "356240",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "Tax policies failed to invest in the middle class.",
+            "Tax policies created a perfect storm."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "So Ford is leaving."
+        ],
+        "claim_list": [
+            "Thousands of jobs leaving Michigan, leaving Ohio."
+        ],
+        "argument": "So Ford is leaving. Thousands of jobs leaving Michigan, leaving Ohio.",
+        "scheme": "example",
+        "argument_id": "265562d0-3f02-46e0-be6f-aa5584810d0f",
+        "id": "355628",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "So Ford is leaving.",
+            "Thousands of jobs leaving Michigan, leaving Ohio."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It got us into the mess we were in, in 2008 and 2009."
+        ],
+        "claim_list": [
+            "Trickle-down did not work."
+        ],
+        "argument": "Trickle-down did not work. It got us into the mess we were in, in 2008 and 2009.",
+        "scheme": "example",
+        "argument_id": "62b7bcd0-1262-43ab-8400-65940872c32a",
+        "id": "357003",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "Trickle-down did not work.",
+            "It got us into the mess we were in, in 2008 and 2009."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The only thing that looks good is the stock market, but if you raise interest rates even a little bit, that's going to come crashing down."
+        ],
+        "claim_list": [
+            "Believe TRUMP : We're in a bubble right now."
+        ],
+        "argument": "Believe TRUMP : We're in a bubble right now. The only thing that looks good is the stock market, but if you raise interest rates even a little bit, that's going to come crashing down.",
+        "scheme": "example",
+        "argument_id": "8ef6fe29-e897-470a-afaf-c8172d64655c",
+        "id": "357055",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "Believe TRUMP : We're in a bubble right now.",
+            "The only thing that looks good is the stock market, but if you raise interest rates even a little bit, that's going to come crashing down."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We should be proud of the opportunities that so many families are working to provide for their kids."
+        ],
+        "claim_list": [
+            "There's a lot that we should be proud of and we should be supporting and lifting up."
+        ],
+        "argument": "We should be proud of the opportunities that so many families are working to provide for their kids. There's a lot that we should be proud of and we should be supporting and lifting up.",
+        "scheme": "example",
+        "argument_id": "ef66c945-1361-4dab-a317-2e78d71c7fc9",
+        "id": "358068",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "We should be proud of the opportunities that so many families are working to provide for their kids.",
+            "There's a lot that we should be proud of and we should be supporting and lifting up."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "On occasion, four times, TRUMP used certain laws that are there."
+        ],
+        "claim_list": [
+            "When CLINTON talks about people that didn't get paid, they did get paid a lot, but taken advantage of the laws of the nation."
+        ],
+        "argument": "On occasion, four times, TRUMP used certain laws that are there. When CLINTON talks about people that didn't get paid, they did get paid a lot, but taken advantage of the laws of the nation.",
+        "scheme": "example",
+        "argument_id": "0e98b1e9-837f-4d43-ade0-efbb5d7629f5",
+        "id": "357653",
+        "file_id": [
+            "13985"
+        ],
+        "argument_list": [
+            "On occasion, four times, TRUMP used certain laws that are there.",
+            "When CLINTON talks about people that didn't get paid, they did get paid a lot, but taken advantage of the laws of the nation."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Then five police officers were killed one night very violently.",
+            "In Dallas the relationships between the communities and the police were really a beautiful thing."
+        ],
+        "claim_list": [
+            "There's some bad things going on."
+        ],
+        "argument": "Then five police officers were killed one night very violently. In Dallas the relationships between the communities and the police were really a beautiful thing. There's some bad things going on.",
+        "scheme": "example",
+        "argument_id": "80456623-85b8-4fd0-8659-5c2e2004982d",
+        "id": "358041",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "Then five police officers were killed one night very violently.",
+            "In Dallas the relationships between the communities and the police were really a beautiful thing.",
+            "There's some bad things going on."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It's the Iran deal that CLINTON's so in love with, where we gave them $ 150 billion back.",
+            "It's anything you can\u2014name.",
+            "You almost ca n't name a good deal."
+        ],
+        "claim_list": [
+            "It's bad, bad experience."
+        ],
+        "argument": "It's bad, bad experience. It's the Iran deal that CLINTON's so in love with, where we gave them $ 150 billion back. It's anything you can\u2014name. You almost ca n't name a good deal.",
+        "scheme": "example",
+        "argument_id": "893bfe91-43e8-4cee-bcf5-6c826bb24172",
+        "id": "360029",
+        "file_id": [
+            "13998"
+        ],
+        "argument_list": [
+            "It's bad, bad experience.",
+            "It's the Iran deal that CLINTON's so in love with, where we gave them $ 150 billion back.",
+            "It's anything you can\u2014name.",
+            "You almost ca n't name a good deal."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "All you have to do is look at Michigan and look at Ohio and look at all of these places where so many of their jobs and their companies are just leaving."
+        ],
+        "claim_list": [],
+        "argument": "All you have to do is look at Michigan and look at Ohio and look at all of these places where so many of their jobs and their companies are just leaving.",
+        "scheme": "example",
+        "argument_id": "31c146cc-8208-4ef3-bf61-6ded7be87afc",
+        "id": "356382",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "All you have to do is look at Michigan and look at Ohio and look at all of these places where so many of their jobs and their companies are just leaving."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We need to have strong growth, fair growth, sustained growth."
+        ],
+        "claim_list": [
+            "CLINTON has a very robust set of plans."
+        ],
+        "argument": "We need to have strong growth, fair growth, sustained growth. CLINTON has a very robust set of plans.",
+        "scheme": "example",
+        "argument_id": "b7bc59e3-f02e-4313-a26d-ad4cf8a74baa",
+        "id": "356624",
+        "file_id": [
+            "13981"
+        ],
+        "argument_list": [
+            "We need to have strong growth, fair growth, sustained growth.",
+            "CLINTON has a very robust set of plans."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We need to have more second chance programs."
+        ],
+        "claim_list": [
+            "There are things we can do."
+        ],
+        "argument": "We need to have more second chance programs. There are things we can do.",
+        "scheme": "example",
+        "argument_id": "3713b3e7-8eaf-4a91-bb34-01642955c07d",
+        "id": "358197",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "We need to have more second chance programs.",
+            "There are things we can do."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "One needs more police."
+        ],
+        "claim_list": [
+            "One needs a better community."
+        ],
+        "argument": "One needs more police. One needs a better community.",
+        "scheme": "example",
+        "argument_id": "79c787a8-1cc7-4bc4-8654-cb154cacae24",
+        "id": "358010",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "One needs more police.",
+            "One needs a better community."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It also could be somebody sitting on their bed that weighs 400 pounds."
+        ],
+        "claim_list": [
+            "TRUMP doesn't claim that Rusia is for sure responsible for cyber attacks."
+        ],
+        "argument": "TRUMP doesn't claim that Rusia is for sure responsible for cyber attacks. It also could be somebody sitting on their bed that weighs 400 pounds.",
+        "scheme": "example",
+        "argument_id": "20c61c40-7b75-40bb-97fb-404334b711fc",
+        "id": "358894",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "TRUMP doesn't claim that Rusia is for sure responsible for cyber attacks.",
+            "It also could be somebody sitting on their bed that weighs 400 pounds."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The most recent and troubling of cyber attacks coming from states has been Russia.",
+            "There's no doubt now that Russia has used cyber attacks against all kinds of organizations in our country."
+        ],
+        "claim_list": [
+            "Increasingly, we are seeing cyber attacks coming from states, organs of states."
+        ],
+        "argument": "The most recent and troubling of cyber attacks coming from states has been Russia. Increasingly, we are seeing cyber attacks coming from states, organs of states. There's no doubt now that Russia has used cyber attacks against all kinds of organizations in our country.",
+        "scheme": "example",
+        "argument_id": "d977498e-15a4-4c06-ba2d-da56263a93f4",
+        "id": "358768",
+        "file_id": [
+            "13991"
+        ],
+        "argument_list": [
+            "The most recent and troubling of cyber attacks coming from states has been Russia.",
+            "Increasingly, we are seeing cyber attacks coming from states, organs of states.",
+            "There's no doubt now that Russia has used cyber attacks against all kinds of organizations in our country."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Republicans and Democrats agree that it is $ 2.5 trillion that we can't bring to our country."
+        ],
+        "claim_list": [
+            "Republicans and Democrats agree that this should be done."
+        ],
+        "argument": "Republicans and Democrats agree that it is $ 2.5 trillion that we can't bring to our country. Republicans and Democrats agree that this should be done.",
+        "scheme": "example",
+        "argument_id": "0860430e-e854-4b14-8eac-8318aaf161bc",
+        "id": "356916",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "Republicans and Democrats agree that it is $ 2.5 trillion that we can't bring to our country.",
+            "Republicans and Democrats agree that this should be done."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The only thing that looks good is the stock market, but if you raise interest rates even a little bit, that's going to come crashing down."
+        ],
+        "claim_list": [
+            "We are in a big, fat, ugly bubble."
+        ],
+        "argument": "The only thing that looks good is the stock market, but if you raise interest rates even a little bit, that's going to come crashing down. We are in a big, fat, ugly bubble.",
+        "scheme": "example",
+        "argument_id": "2b6c64af-c3eb-489d-b41d-a2450f73c9ee",
+        "id": "357061",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "The only thing that looks good is the stock market, but if you raise interest rates even a little bit, that's going to come crashing down.",
+            "We are in a big, fat, ugly bubble."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP has been under audit almost for 15 years.",
+            "TRUMP knows a lot of wealthy people that have never been audited.",
+            "TRUMP gets audited almost every year."
+        ],
+        "claim_list": [
+            "In a way, TRUMP should be complaining."
+        ],
+        "argument": "TRUMP has been under audit almost for 15 years. TRUMP knows a lot of wealthy people that have never been audited. TRUMP gets audited almost every year. In a way, TRUMP should be complaining.",
+        "scheme": "example",
+        "argument_id": "62a5bd15-92f8-4769-947c-367eff33f602",
+        "id": "357177",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "TRUMP has been under audit almost for 15 years.",
+            "TRUMP knows a lot of wealthy people that have never been audited.",
+            "TRUMP gets audited almost every year.",
+            "In a way, TRUMP should be complaining."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP want to get on to defeating ISIS.",
+            "TRUMP wants to get on to having a strong border.",
+            "TRUMP wants to get on to creating jobs."
+        ],
+        "claim_list": [
+            "TRUMP wants to get on to things that are very important to TRUMP and that are very important to the country."
+        ],
+        "argument": "TRUMP want to get on to defeating ISIS. TRUMP wants to get on to having a strong border. TRUMP wants to get on to creating jobs. TRUMP wants to get on to things that are very important to TRUMP and that are very important to the country.",
+        "scheme": "example",
+        "argument_id": "11759067-0031-4f1a-82c3-fe8a6f77bfca",
+        "id": "358488",
+        "file_id": [
+            "13990"
+        ],
+        "argument_list": [
+            "TRUMP want to get on to defeating ISIS.",
+            "TRUMP wants to get on to having a strong border.",
+            "TRUMP wants to get on to creating jobs.",
+            "TRUMP wants to get on to things that are very important to TRUMP and that are very important to the country."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "CLINTON has been a senator.",
+            "CLINTON has been a secretary of state."
+        ],
+        "claim_list": [
+            "CLINTON has done a lot."
+        ],
+        "argument": "CLINTON has been a senator. CLINTON has been a secretary of state. CLINTON has done a lot.",
+        "scheme": "example",
+        "argument_id": "b75fa388-7dcb-4bb9-9b54-33c03c3fe8b1",
+        "id": "356493",
+        "file_id": [
+            "13980"
+        ],
+        "argument_list": [
+            "CLINTON has been a senator.",
+            "CLINTON has been a secretary of state.",
+            "CLINTON has done a lot."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It could also be China."
+        ],
+        "claim_list": [
+            "TRUMP doesn't claim that Rusia is for sure responsible for cyber attacks."
+        ],
+        "argument": "TRUMP doesn't claim that Rusia is for sure responsible for cyber attacks. It could also be China.",
+        "scheme": "example",
+        "argument_id": "0ab5f533-5449-4760-a3cd-43502b08bfa3",
+        "id": "358886",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "TRUMP doesn't claim that Rusia is for sure responsible for cyber attacks.",
+            "It could also be China."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "When CLINTON was secretary of state, we actually increased American exports globally 30 percent.",
+            "We increased them to China 50 percent."
+        ],
+        "claim_list": [
+            "CLINTON knows how to really work to get new jobs and to get exports that helped to create more new jobs."
+        ],
+        "argument": "When CLINTON was secretary of state, we actually increased American exports globally 30 percent. We increased them to China 50 percent. CLINTON knows how to really work to get new jobs and to get exports that helped to create more new jobs.",
+        "scheme": "example",
+        "argument_id": "5b1c95c7-dcad-4426-9420-a3097e26a91f",
+        "id": "356478",
+        "file_id": [
+            "13980"
+        ],
+        "argument_list": [
+            "When CLINTON was secretary of state, we actually increased American exports globally 30 percent.",
+            "We increased them to China 50 percent.",
+            "CLINTON knows how to really work to get new jobs and to get exports that helped to create more new jobs."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "One of the things PUTIN has done is to let loose cyber attackers to hack into government files, to hack into personal files, hack into the Democratic National Committee.",
+            "We recently have learned that, you know, that this is one of their preferred methods of trying to wreak havoc and collect information."
+        ],
+        "claim_list": [
+            "PUTIN is playing a really tough, long game here."
+        ],
+        "argument": "PUTIN is playing a really tough, long game here. One of the things PUTIN has done is to let loose cyber attackers to hack into government files, to hack into personal files, hack into the Democratic National Committee. We recently have learned that, you know, that this is one of their preferred methods of trying to wreak havoc and collect information.",
+        "scheme": "example",
+        "argument_id": "c4d967e0-1951-4c33-901c-d69513f99e2b",
+        "id": "358777",
+        "file_id": [
+            "13991"
+        ],
+        "argument_list": [
+            "PUTIN is playing a really tough, long game here.",
+            "One of the things PUTIN has done is to let loose cyber attackers to hack into government files, to hack into personal files, hack into the Democratic National Committee.",
+            "We recently have learned that, you know, that this is one of their preferred methods of trying to wreak havoc and collect information."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "USA is hoping that within the year USA will be able to push ISIS out of Iraq."
+        ],
+        "claim_list": [
+            "USA is making progress."
+        ],
+        "argument": "USA is making progress. USA is hoping that within the year USA will be able to push ISIS out of Iraq.",
+        "scheme": "example",
+        "argument_id": "9eace064-e0d4-496d-b9fd-d45cafbf646a",
+        "id": "358986",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "USA is making progress.",
+            "USA is hoping that within the year USA will be able to push ISIS out of Iraq."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We need comprehensive background checks."
+        ],
+        "claim_list": [
+            "There are things we can do."
+        ],
+        "argument": "We need comprehensive background checks. There are things we can do.",
+        "scheme": "example",
+        "argument_id": "7bc82d95-d502-4f6f-9972-e67633b13111",
+        "id": "358189",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "We need comprehensive background checks.",
+            "There are things we can do."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "CLINTON thinks a lot about a balanced budget."
+        ],
+        "claim_list": [
+            "CLINTON thinks a lot about what worked and how we can make it work again."
+        ],
+        "argument": "CLINTON thinks a lot about what worked and how we can make it work again. CLINTON thinks a lot about a balanced budget.",
+        "scheme": "example",
+        "argument_id": "edeadd30-1a74-4c0b-bf43-9c4d2f0da18c",
+        "id": "356432",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "CLINTON thinks a lot about what worked and how we can make it work again.",
+            "CLINTON thinks a lot about a balanced budget."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We're working with our friends in the Middle East, many of which, as you know, are Muslim majority nations."
+        ],
+        "claim_list": [
+            "That means we've got to work more closely with our allies, and that's something that TRUMP has been very dismissive of."
+        ],
+        "argument": "That means we've got to work more closely with our allies, and that's something that TRUMP has been very dismissive of. We're working with our friends in the Middle East, many of which, as you know, are Muslim majority nations.",
+        "scheme": "example",
+        "argument_id": "237053ea-4194-4f21-8da6-8a81bc919135",
+        "id": "359187",
+        "file_id": [
+            "13993"
+        ],
+        "argument_list": [
+            "That means we've got to work more closely with our allies, and that's something that TRUMP has been very dismissive of.",
+            "We're working with our friends in the Middle East, many of which, as you know, are Muslim majority nations."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "This Janet Yellen of the Fed."
+        ],
+        "claim_list": [
+            "We have a Fed that's doing political things."
+        ],
+        "argument": "We have a Fed that's doing political things. This Janet Yellen of the Fed.",
+        "scheme": "example",
+        "argument_id": "44a814c9-02b4-4100-b2a0-63f6613ad12c",
+        "id": "357073",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "We have a Fed that's doing political things.",
+            "This Janet Yellen of the Fed."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "You land at LaGuardia, you land at Kennedy, you land at LAX, you land at Newark, and you come in from Dubai and Qatar and you see these incredible\u2014you come in from China, you see these incredible airports."
+        ],
+        "claim_list": [
+            "Our airports are like from a third world country."
+        ],
+        "argument": "Our airports are like from a third world country. You land at LaGuardia, you land at Kennedy, you land at LAX, you land at Newark, and you come in from Dubai and Qatar and you see these incredible\u2014you come in from China, you see these incredible airports.",
+        "scheme": "example",
+        "argument_id": "69945108-0dd2-487d-9c9d-5aca2d2facd5",
+        "id": "357472",
+        "file_id": [
+            "13984"
+        ],
+        "argument_list": [
+            "Our airports are like from a third world country.",
+            "You land at LaGuardia, you land at Kennedy, you land at LAX, you land at Newark, and you come in from Dubai and Qatar and you see these incredible\u2014you come in from China, you see these incredible airports."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The latest incident was the bombings we just saw in New York and New Jersey."
+        ],
+        "claim_list": [
+            "There are American citizens who have been inspired to commit acts of terror on American soil."
+        ],
+        "argument": "The latest incident was the bombings we just saw in New York and New Jersey. There are American citizens who have been inspired to commit acts of terror on American soil.",
+        "scheme": "example",
+        "argument_id": "3a6562ff-b5e5-4c08-b887-eabe3f9fbfe2",
+        "id": "359042",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "The latest incident was the bombings we just saw in New York and New Jersey.",
+            "There are American citizens who have been inspired to commit acts of terror on American soil."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We finally need to pass a prohibition on anyone who's on the terrorist watch list from being able to buy a gun in the USA."
+        ],
+        "claim_list": [
+            "There are things we can do."
+        ],
+        "argument": "We finally need to pass a prohibition on anyone who's on the terrorist watch list from being able to buy a gun in the USA. There are things we can do.",
+        "scheme": "example",
+        "argument_id": "7cbf5ea3-7d1e-427f-82b3-ce44d65e9823",
+        "id": "358186",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "We finally need to pass a prohibition on anyone who's on the terrorist watch list from being able to buy a gun in the USA.",
+            "There are things we can do."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We've just seen those two tragic examples in both Tulsa and Charlotte."
+        ],
+        "claim_list": [
+            "It determines how they're treated in the criminal justice system."
+        ],
+        "argument": "We've just seen those two tragic examples in both Tulsa and Charlotte. It determines how they're treated in the criminal justice system.",
+        "scheme": "example",
+        "argument_id": "36777361-fbf7-4da2-8018-5e2c535429a6",
+        "id": "357754",
+        "file_id": [
+            "13986"
+        ],
+        "argument_list": [
+            "We've just seen those two tragic examples in both Tulsa and Charlotte.",
+            "It determines how they're treated in the criminal justice system."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "CLINTON is glad that USA are ending private prisons in the federal system."
+        ],
+        "claim_list": [
+            "Here are some positive ways we can work on this."
+        ],
+        "argument": "CLINTON is glad that USA are ending private prisons in the federal system. Here are some positive ways we can work on this.",
+        "scheme": "example",
+        "argument_id": "6dbd19e8-912d-4c13-b6d0-e11e3566235f",
+        "id": "358156",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "CLINTON is glad that USA are ending private prisons in the federal system.",
+            "Here are some positive ways we can work on this."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The other day USA were deporting 800 people."
+        ],
+        "claim_list": [
+            "People are pouring into the USA."
+        ],
+        "argument": "People are pouring into the USA. The other day USA were deporting 800 people.",
+        "scheme": "example",
+        "argument_id": "e1defc93-7756-4064-8d4a-c25da8365695",
+        "id": "360220",
+        "file_id": [
+            "14001"
+        ],
+        "argument_list": [
+            "People are pouring into the USA.",
+            "The other day USA were deporting 800 people."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "USA military is assisting in Iraq."
+        ],
+        "claim_list": [
+            "USA is making progress."
+        ],
+        "argument": "USA military is assisting in Iraq. USA is making progress.",
+        "scheme": "example",
+        "argument_id": "91534c4e-839a-465f-a176-305a212c8d85",
+        "id": "358980",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "USA military is assisting in Iraq.",
+            "USA is making progress."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "There's no doubt that USA have other problems with Iran."
+        ],
+        "claim_list": [
+            "It's also important that we look at the entire global situation."
+        ],
+        "argument": "There's no doubt that USA have other problems with Iran. It's also important that we look at the entire global situation.",
+        "scheme": "example",
+        "argument_id": "1965123d-a2fb-47ec-9431-257fa592b3d0",
+        "id": "359875",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "There's no doubt that USA have other problems with Iran.",
+            "It's also important that we look at the entire global situation."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We're a debtor nation."
+        ],
+        "claim_list": [
+            "Our country has tremendous problems."
+        ],
+        "argument": "Our country has tremendous problems. We're a debtor nation.",
+        "scheme": "example",
+        "argument_id": "4b5e0415-69cc-47c4-bdd7-6a4e2868750f",
+        "id": "357539",
+        "file_id": [
+            "13984"
+        ],
+        "argument_list": [
+            "Our country has tremendous problems.",
+            "We're a debtor nation."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We should be proud of the black businesses that employ so many people."
+        ],
+        "claim_list": [
+            "There's a lot that we should be proud of and we should be supporting and lifting up."
+        ],
+        "argument": "We should be proud of the black businesses that employ so many people. There's a lot that we should be proud of and we should be supporting and lifting up.",
+        "scheme": "example",
+        "argument_id": "ce2578a6-5fd9-44c9-a4c8-10f806ad457b",
+        "id": "358071",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "We should be proud of the black businesses that employ so many people.",
+            "There's a lot that we should be proud of and we should be supporting and lifting up."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP built some of the greatest real etate assets beyond the United States, in Europe, lots of different places."
+        ],
+        "claim_list": [
+            "TRUMP built an unbelievable company."
+        ],
+        "argument": "TRUMP built an unbelievable company. TRUMP built some of the greatest real etate assets beyond the United States, in Europe, lots of different places.",
+        "scheme": "example",
+        "argument_id": "9f70d8f5-5c85-4261-a190-0c18bec682d5",
+        "id": "357644",
+        "file_id": [
+            "13985"
+        ],
+        "argument_list": [
+            "TRUMP built an unbelievable company.",
+            "TRUMP built some of the greatest real etate assets beyond the United States, in Europe, lots of different places."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Tax policies slashed taxes on the wealthy."
+        ],
+        "claim_list": [
+            "Tax policies created a perfect storm."
+        ],
+        "argument": "Tax policies slashed taxes on the wealthy. Tax policies created a perfect storm.",
+        "scheme": "example",
+        "argument_id": "b6a706a1-5502-465e-9c71-59754c205963",
+        "id": "356242",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "Tax policies slashed taxes on the wealthy.",
+            "Tax policies created a perfect storm."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Too many young African-American and Latino men ended up in jail for nonviolent offenses."
+        ],
+        "claim_list": [
+            "There were some problems."
+        ],
+        "argument": "There were some problems. Too many young African-American and Latino men ended up in jail for nonviolent offenses.",
+        "scheme": "example",
+        "argument_id": "bed15e84-141e-45da-af80-b4ead9ba10b5",
+        "id": "358117",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "There were some problems.",
+            "Too many young African-American and Latino men ended up in jail for nonviolent offenses."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "You go to New England, you go to Ohio, Pennsylvania, you go anywhere you want, Secretary Clinton, and you will see devastation where manufacture is down 30, 40, sometimes 50 percent."
+        ],
+        "claim_list": [
+            "NAFTA is the worst trade deal maybe ever signed anywhere, but certainly ever signed in this country."
+        ],
+        "argument": "You go to New England, you go to Ohio, Pennsylvania, you go anywhere you want, Secretary Clinton, and you will see devastation where manufacture is down 30, 40, sometimes 50 percent. NAFTA is the worst trade deal maybe ever signed anywhere, but certainly ever signed in this country.",
+        "scheme": "example",
+        "argument_id": "5e28f389-1d2e-401c-81a3-9b980d8e4b3e",
+        "id": "356515",
+        "file_id": [
+            "13980"
+        ],
+        "argument_list": [
+            "You go to New England, you go to Ohio, Pennsylvania, you go anywhere you want, Secretary Clinton, and you will see devastation where manufacture is down 30, 40, sometimes 50 percent.",
+            "NAFTA is the worst trade deal maybe ever signed anywhere, but certainly ever signed in this country."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "When TRUMP did an interview with Howard Stern, very lightly, first time anyone's asked TRUMP that, TRUMP said, very lightly, TRUMP do n't know, maybe, who knows.",
+            "TRUMP then did an interview with Neil Cavuto.",
+            "TRUMP then spoke to Sean Hannity, which everybody refuses to call Sean Hannity.",
+            "They did an article which had TRUMP totally against the war in Iraq."
+        ],
+        "claim_list": [
+            "The record shows that TRUMP's right."
+        ],
+        "argument": "When TRUMP did an interview with Howard Stern, very lightly, first time anyone's asked TRUMP that, TRUMP said, very lightly, TRUMP do n't know, maybe, who knows. The record shows that TRUMP's right. TRUMP then did an interview with Neil Cavuto. TRUMP then spoke to Sean Hannity, which everybody refuses to call Sean Hannity. They did an article which had TRUMP totally against the war in Iraq.",
+        "scheme": "example",
+        "argument_id": "46a75338-5d5d-4802-b957-5042cc555598",
+        "id": "359333",
+        "file_id": [
+            "13994"
+        ],
+        "argument_list": [
+            "When TRUMP did an interview with Howard Stern, very lightly, first time anyone's asked TRUMP that, TRUMP said, very lightly, TRUMP do n't know, maybe, who knows.",
+            "The record shows that TRUMP's right.",
+            "TRUMP then did an interview with Neil Cavuto.",
+            "TRUMP then spoke to Sean Hannity, which everybody refuses to call Sean Hannity.",
+            "They did an article which had TRUMP totally against the war in Iraq."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Just because of the tax and many other reasons."
+        ],
+        "claim_list": [
+            "The NAFTA agreement is defective."
+        ],
+        "argument": "Just because of the tax and many other reasons. The NAFTA agreement is defective.",
+        "scheme": "example",
+        "argument_id": "055f4da8-4c79-4d43-b742-297e95fcb55b",
+        "id": "355839",
+        "file_id": [
+            "13977"
+        ],
+        "argument_list": [
+            "Just because of the tax and many other reasons.",
+            "The NAFTA agreement is defective."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "When you look at some of these countries such as North Korea, USA are doing nothing there."
+        ],
+        "claim_list": [
+            "TRUMP can't take anything off the table."
+        ],
+        "argument": "TRUMP can't take anything off the table. When you look at some of these countries such as North Korea, USA are doing nothing there.",
+        "scheme": "example",
+        "argument_id": "8856909a-bdb9-4a5f-8666-963cee5886f8",
+        "id": "359729",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "TRUMP can't take anything off the table.",
+            "When you look at some of these countries such as North Korea, USA are doing nothing there."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "By keeping the interest rates at this level.",
+            "Believe TRUMP : The day Obama goes off, and OBAMA leaves, and goes out to the golf course for the rest of OBAMA's life to play golf, when they raise interest rates, you're going to see some very bad things happen."
+        ],
+        "claim_list": [
+            "The Fed is doing political."
+        ],
+        "argument": "The Fed is doing political. By keeping the interest rates at this level. Believe TRUMP : The day Obama goes off, and OBAMA leaves, and goes out to the golf course for the rest of OBAMA's life to play golf, when they raise interest rates, you're going to see some very bad things happen.",
+        "scheme": "example",
+        "argument_id": "33c3d613-7985-4902-b411-21a5eded1670",
+        "id": "357081",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "The Fed is doing political.",
+            "By keeping the interest rates at this level.",
+            "Believe TRUMP : The day Obama goes off, and OBAMA leaves, and goes out to the golf course for the rest of OBAMA's life to play golf, when they raise interest rates, you're going to see some very bad things happen."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "CLINTON thinks a lot about what worked and how we can make it work again."
+        ],
+        "claim_list": [
+            "CLINTON has thought about bringing back jobs quite a bit."
+        ],
+        "argument": "CLINTON has thought about bringing back jobs quite a bit. CLINTON thinks a lot about what worked and how we can make it work again.",
+        "scheme": "example",
+        "argument_id": "0584df55-2c9a-4979-9ad9-50a65fac642d",
+        "id": "356421",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "CLINTON has thought about bringing back jobs quite a bit.",
+            "CLINTON thinks a lot about what worked and how we can make it work again."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Too many young African-American and Latino men ended up in jail for nonviolent offenses."
+        ],
+        "claim_list": [
+            "There were some unintended consequences."
+        ],
+        "argument": "There were some unintended consequences. Too many young African-American and Latino men ended up in jail for nonviolent offenses.",
+        "scheme": "example",
+        "argument_id": "361b82f0-36c2-4caf-98dd-10b3c6089cbd",
+        "id": "358116",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "There were some unintended consequences.",
+            "Too many young African-American and Latino men ended up in jail for nonviolent offenses."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We have a country that needs new roads, new tunnels, new bridges, new airports, new schools, new hospitals."
+        ],
+        "claim_list": [
+            "Our country has tremendous problems."
+        ],
+        "argument": "Our country has tremendous problems. We have a country that needs new roads, new tunnels, new bridges, new airports, new schools, new hospitals.",
+        "scheme": "example",
+        "argument_id": "c7f86b26-98ae-418a-9b4a-011bd82c4980",
+        "id": "357545",
+        "file_id": [
+            "13984"
+        ],
+        "argument_list": [
+            "Our country has tremendous problems.",
+            "We have a country that needs new roads, new tunnels, new bridges, new airports, new schools, new hospitals."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "There was the knife attack at a mall in Minnesota."
+        ],
+        "claim_list": [
+            "There are American citizens who have been inspired to commit acts of terror on American soil."
+        ],
+        "argument": "There are American citizens who have been inspired to commit acts of terror on American soil. There was the knife attack at a mall in Minnesota.",
+        "scheme": "example",
+        "argument_id": "c709fad3-0464-4102-80e4-8f493b0a64c8",
+        "id": "359045",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "There are American citizens who have been inspired to commit acts of terror on American soil.",
+            "There was the knife attack at a mall in Minnesota."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "There are the independent hacking groups that do it mostly for commercial reasons to try to steal information that they can use to make money.",
+            "Increasingly, we are seeing cyber attacks coming from states, organs of states."
+        ],
+        "claim_list": [
+            "Clearly we're facing at this point two different kinds of adversaries."
+        ],
+        "argument": "Clearly we're facing at this point two different kinds of adversaries. There are the independent hacking groups that do it mostly for commercial reasons to try to steal information that they can use to make money. Increasingly, we are seeing cyber attacks coming from states, organs of states.",
+        "scheme": "example",
+        "argument_id": "32a38153-d1cb-46a5-bd74-403cf39f7179",
+        "id": "358759",
+        "file_id": [
+            "13991"
+        ],
+        "argument_list": [
+            "Clearly we're facing at this point two different kinds of adversaries.",
+            "There are the independent hacking groups that do it mostly for commercial reasons to try to steal information that they can use to make money.",
+            "Increasingly, we are seeing cyber attacks coming from states, organs of states."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Tax policies took their eyes off of Wall Street."
+        ],
+        "claim_list": [
+            "Tax policies created a perfect storm."
+        ],
+        "argument": "Tax policies took their eyes off of Wall Street. Tax policies created a perfect storm.",
+        "scheme": "example",
+        "argument_id": "a3852c1a-65ce-461c-b7c5-b7e0e60a03be",
+        "id": "356236",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "Tax policies took their eyes off of Wall Street.",
+            "Tax policies created a perfect storm."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Property crime is down 40 percent."
+        ],
+        "claim_list": [
+            "In fact, violent crime is one-half of what it was in 1991."
+        ],
+        "argument": "Property crime is down 40 percent. In fact, violent crime is one-half of what it was in 1991.",
+        "scheme": "example",
+        "argument_id": "c3d49e97-4fa1-4094-a336-0fb382f1385d",
+        "id": "358099",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "Property crime is down 40 percent.",
+            "In fact, violent crime is one-half of what it was in 1991."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Thousands of jobs leaving Michigan, leaving Ohio."
+        ],
+        "claim_list": [
+            "We're losing our good jobs, so many of them."
+        ],
+        "argument": "We're losing our good jobs, so many of them. Thousands of jobs leaving Michigan, leaving Ohio.",
+        "scheme": "example",
+        "argument_id": "233d72a5-50b9-4e74-a5ab-1eed66c56532",
+        "id": "355631",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "We're losing our good jobs, so many of them.",
+            "Thousands of jobs leaving Michigan, leaving Ohio."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They're going to Mexico.",
+            "They're going to many other countries."
+        ],
+        "claim_list": [
+            "Our jobs are fleeing the country."
+        ],
+        "argument": "They're going to Mexico. Our jobs are fleeing the country. They're going to many other countries.",
+        "scheme": "example",
+        "argument_id": "86c6001a-a8cd-44ab-af67-a6570d176f39",
+        "id": "355585",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "They're going to Mexico.",
+            "Our jobs are fleeing the country.",
+            "They're going to many other countries."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It's important to look at what we need to do to get the economy going again.",
+            "There are different views about what's good for our country, our economy, and our leadership in the world."
+        ],
+        "claim_list": [
+            "We need new jobs with rising incomes, investments, not in more tax cuts that would add $5 trillion to the debt."
+        ],
+        "argument": "It's important to look at what we need to do to get the economy going again. There are different views about what's good for our country, our economy, and our leadership in the world. We need new jobs with rising incomes, investments, not in more tax cuts that would add $5 trillion to the debt.",
+        "scheme": "values",
+        "argument_id": "2694e1d5-e30f-4d8f-8393-8656f81aedff",
+        "id": "356595",
+        "file_id": [
+            "13980"
+        ],
+        "argument_list": [
+            "It's important to look at what we need to do to get the economy going again.",
+            "There are different views about what's good for our country, our economy, and our leadership in the world.",
+            "We need new jobs with rising incomes, investments, not in more tax cuts that would add $5 trillion to the debt."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It's inappropriate."
+        ],
+        "claim_list": [
+            "TRUMP just can't say anything extremely rough to CLINTON and to her family."
+        ],
+        "argument": "TRUMP just can't say anything extremely rough to CLINTON and to her family. It's inappropriate.",
+        "scheme": "values",
+        "argument_id": "39ce88f7-6511-49c8-b0ba-8569f7ef3a38",
+        "id": "360143",
+        "file_id": [
+            "14000"
+        ],
+        "argument_list": [
+            "TRUMP just can't say anything extremely rough to CLINTON and to her family.",
+            "It's inappropriate."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "train",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Race remains a significant challenge in our country."
+        ],
+        "claim_list": [
+            "We've got to do several things at the same time."
+        ],
+        "argument": "Race remains a significant challenge in our country. We've got to do several things at the same time.",
+        "scheme": "consequences",
+        "argument_id": "a49ef71c-8a9c-417b-9dec-06e0c8d963c6",
+        "id": "357761",
+        "file_id": [
+            "13986"
+        ],
+        "argument_list": [
+            "Race remains a significant challenge in our country.",
+            "We've got to do several things at the same time."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It went before a judge, who was a very against-police judge."
+        ],
+        "claim_list": [
+            "It was taken away from the judge."
+        ],
+        "argument": "It went before a judge, who was a very against-police judge. It was taken away from the judge.",
+        "scheme": "consequences",
+        "argument_id": "17740a3d-ef92-488b-bd00-81f13cd5a6c1",
+        "id": "357940",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "It went before a judge, who was a very against-police judge.",
+            "It was taken away from the judge."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They can provide information to us that we might not get anywhere else."
+        ],
+        "claim_list": [
+            "Donald has consistently insulted Muslims abroad, Muslims at home, when we need to be cooperating with Muslim nations and with the American Muslim community."
+        ],
+        "argument": "Donald has consistently insulted Muslims abroad, Muslims at home, when we need to be cooperating with Muslim nations and with the American Muslim community. They can provide information to us that we might not get anywhere else.",
+        "scheme": "consequences",
+        "argument_id": "8796ce32-050e-4d69-8b37-0cf450926b91",
+        "id": "359197",
+        "file_id": [
+            "13993"
+        ],
+        "argument_list": [
+            "Donald has consistently insulted Muslims abroad, Muslims at home, when we need to be cooperating with Muslim nations and with the American Muslim community.",
+            "They can provide information to us that we might not get anywhere else."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We're at the final question now."
+        ],
+        "claim_list": [],
+        "argument": "We're at the final question now.",
+        "scheme": "consequences",
+        "argument_id": "ff897b92-addb-4af7-9944-7c98274c23c7",
+        "id": "360055",
+        "file_id": [
+            "13998"
+        ],
+        "argument_list": [
+            "We're at the final question now."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "ISIS are in more and more places."
+        ],
+        "claim_list": [
+            "Right now it's getting tougher and tougher to defeat ISIS."
+        ],
+        "argument": "Right now it's getting tougher and tougher to defeat ISIS. ISIS are in more and more places.",
+        "scheme": "cause to effect",
+        "argument_id": "876bb710-ccce-41e7-bd95-cebd57907486",
+        "id": "359899",
+        "file_id": [
+            "13997"
+        ],
+        "argument_list": [
+            "Right now it's getting tougher and tougher to defeat ISIS.",
+            "ISIS are in more and more places."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The wealthy are going create tremendous jobs."
+        ],
+        "claim_list": [
+            "TRUMP is really calling for major jobs."
+        ],
+        "argument": "TRUMP is really calling for major jobs. The wealthy are going create tremendous jobs.",
+        "scheme": "cause to effect",
+        "argument_id": "0826bc31-8aab-4210-8919-1ec6c69c5610",
+        "id": "356820",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "TRUMP is really calling for major jobs.",
+            "The wealthy are going create tremendous jobs."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP got OBAMA to give the birth certificate."
+        ],
+        "claim_list": [
+            "TRUMP's satisfied with it."
+        ],
+        "argument": "TRUMP got OBAMA to give the birth certificate. TRUMP's satisfied with it.",
+        "scheme": "cause to effect",
+        "argument_id": "99363482-f0c0-442a-8de2-b8a4a2fbb6cb",
+        "id": "358474",
+        "file_id": [
+            "13990"
+        ],
+        "argument_list": [
+            "TRUMP got OBAMA to give the birth certificate.",
+            "TRUMP's satisfied with it."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "CLINTON is a person with a temperament that's got a problem."
+        ],
+        "claim_list": [
+            "The AFL-CIO the other day, behind the blue screen, CLINTON was totally out of control."
+        ],
+        "argument": "The AFL-CIO the other day, behind the blue screen, CLINTON was totally out of control. CLINTON is a person with a temperament that's got a problem.",
+        "scheme": "cause to effect",
+        "argument_id": "d680e69a-6f11-451c-a25d-73d789a57e42",
+        "id": "359459",
+        "file_id": [
+            "13995"
+        ],
+        "argument_list": [
+            "The AFL-CIO the other day, behind the blue screen, CLINTON was totally out of control.",
+            "CLINTON is a person with a temperament that's got a problem."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It's just a fact that if someone is young African-American man and he does the same thing as a young white man, he is more likely to be arrested, charged, convicted, and incarcerated."
+        ],
+        "claim_list": [
+            "Too many young African-American and Latino men ended up in jail for nonviolent offenses."
+        ],
+        "argument": "Too many young African-American and Latino men ended up in jail for nonviolent offenses. It's just a fact that if someone is young African-American man and he does the same thing as a young white man, he is more likely to be arrested, charged, convicted, and incarcerated.",
+        "scheme": "cause to effect",
+        "argument_id": "d29e8b41-a960-4777-84bd-ca44085f0d33",
+        "id": "358122",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "Too many young African-American and Latino men ended up in jail for nonviolent offenses.",
+            "It's just a fact that if someone is young African-American man and he does the same thing as a young white man, he is more likely to be arrested, charged, convicted, and incarcerated."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "In the last year there were deadly attacks in San Bernardino and Orlando."
+        ],
+        "claim_list": [
+            "There are American citizens who have been inspired to commit acts of terror on American soil."
+        ],
+        "argument": "There are American citizens who have been inspired to commit acts of terror on American soil. In the last year there were deadly attacks in San Bernardino and Orlando.",
+        "scheme": "example",
+        "argument_id": "08aa57d2-9dd8-4be7-8312-8fa88aa2886f",
+        "id": "359048",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "There are American citizens who have been inspired to commit acts of terror on American soil.",
+            "In the last year there were deadly attacks in San Bernardino and Orlando."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "B-52s are old enough that one's father or grandfather could be flying them."
+        ],
+        "claim_list": [
+            "USA are not keeping up with other countries."
+        ],
+        "argument": "B-52s are old enough that one's father or grandfather could be flying them. USA are not keeping up with other countries.",
+        "scheme": "example",
+        "argument_id": "c51940e7-0bf4-4d32-bff2-8fd453fee0fd",
+        "id": "359707",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "B-52s are old enough that one's father or grandfather could be flying them.",
+            "USA are not keeping up with other countries."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP wouldn't pay what the architect needed to be paid, what he was charging TRUMP to do."
+        ],
+        "claim_list": [
+            "CLINTON can only say that she's certainly relieved that her late father never did business with TRUMP."
+        ],
+        "argument": "TRUMP wouldn't pay what the architect needed to be paid, what he was charging TRUMP to do. CLINTON can only say that she's certainly relieved that her late father never did business with TRUMP.",
+        "scheme": "example",
+        "argument_id": "483fcb13-57bf-4276-a2f3-5dfe9f655eea",
+        "id": "357604",
+        "file_id": [
+            "13985"
+        ],
+        "argument_list": [
+            "TRUMP wouldn't pay what the architect needed to be paid, what he was charging TRUMP to do.",
+            "CLINTON can only say that she's certainly relieved that her late father never did business with TRUMP."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP would go against TRUMP_LAWYERS if CLINTON releases CLINTON's e-mails."
+        ],
+        "claim_list": [
+            "It's negotiable."
+        ],
+        "argument": "TRUMP would go against TRUMP_LAWYERS if CLINTON releases CLINTON's e-mails. It's negotiable.",
+        "scheme": "example",
+        "argument_id": "7c93c779-4fce-418a-be5b-12c89fdc5af2",
+        "id": "357240",
+        "file_id": [
+            "13983"
+        ],
+        "argument_list": [
+            "TRUMP would go against TRUMP_LAWYERS if CLINTON releases CLINTON's e-mails.",
+            "It's negotiable."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It could also be lots of other people."
+        ],
+        "claim_list": [
+            "TRUMP doesn't claim that Rusia is for sure responsible for cyber attacks."
+        ],
+        "argument": "TRUMP doesn't claim that Rusia is for sure responsible for cyber attacks. It could also be lots of other people.",
+        "scheme": "example",
+        "argument_id": "542a0675-6bef-43b5-b774-1670006dd100",
+        "id": "358890",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "TRUMP doesn't claim that Rusia is for sure responsible for cyber attacks.",
+            "It could also be lots of other people."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP bulit some of the greatest assets anywhere in the world."
+        ],
+        "claim_list": [
+            "TRUMP built an unbelievable company."
+        ],
+        "argument": "TRUMP bulit some of the greatest assets anywhere in the world. TRUMP built an unbelievable company.",
+        "scheme": "example",
+        "argument_id": "2000e8e5-44e9-4f1c-b4dc-9b75a60d0a5c",
+        "id": "357637",
+        "file_id": [
+            "13985"
+        ],
+        "argument_list": [
+            "TRUMP bulit some of the greatest assets anywhere in the world.",
+            "TRUMP built an unbelievable company."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Often determines where people live.",
+            "Determines what kind of education in their public schools they can get,.",
+            "It determines how they're treated in the criminal justice system."
+        ],
+        "claim_list": [
+            "Unfortunately, race still determines too much."
+        ],
+        "argument": "Unfortunately, race still determines too much. Often determines where people live. Determines what kind of education in their public schools they can get,. It determines how they're treated in the criminal justice system.",
+        "scheme": "example",
+        "argument_id": "57b904f2-dacc-4799-bb11-d53db66262df",
+        "id": "357748",
+        "file_id": [
+            "13986"
+        ],
+        "argument_list": [
+            "Unfortunately, race still determines too much.",
+            "Often determines where people live.",
+            "Determines what kind of education in their public schools they can get,.",
+            "It determines how they're treated in the criminal justice system."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "CLINTON thinks a lot about million new jobs."
+        ],
+        "claim_list": [
+            "CLINTON thinks a lot about what worked and how we can make it work again."
+        ],
+        "argument": "CLINTON thinks a lot about what worked and how we can make it work again. CLINTON thinks a lot about million new jobs.",
+        "scheme": "example",
+        "argument_id": "04a14eef-c8b3-4138-85a3-d7ce460359ef",
+        "id": "356429",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "CLINTON thinks a lot about what worked and how we can make it work again.",
+            "CLINTON thinks a lot about million new jobs."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "You see that, their small car division leaving."
+        ],
+        "claim_list": [
+            "So Ford is leaving."
+        ],
+        "argument": "So Ford is leaving. You see that, their small car division leaving.",
+        "scheme": "example",
+        "argument_id": "0a1b2882-8d74-4605-b6f8-de4233e33e4e",
+        "id": "355625",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "So Ford is leaving.",
+            "You see that, their small car division leaving."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "USA have to be cognizant of the fact that ISIS has had foreign weapons."
+        ],
+        "claim_list": [
+            "We have to make this the top priority."
+        ],
+        "argument": "USA have to be cognizant of the fact that ISIS has had foreign weapons. We have to make this the top priority.",
+        "scheme": "values",
+        "argument_id": "bf1eee06-94ba-4cde-a060-72c302396c2e",
+        "id": "359004",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "USA have to be cognizant of the fact that ISIS has had foreign weapons.",
+            "We have to make this the top priority."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It's not nice."
+        ],
+        "claim_list": [
+            "TRUMP just can't say anything extremely rough to CLINTON and to her family."
+        ],
+        "argument": "TRUMP just can't say anything extremely rough to CLINTON and to her family. It's not nice.",
+        "scheme": "values",
+        "argument_id": "4d3380a6-f832-444e-af4f-3fd7d500e84b",
+        "id": "360147",
+        "file_id": [
+            "14000"
+        ],
+        "argument_list": [
+            "TRUMP just can't say anything extremely rough to CLINTON and to her family.",
+            "It's not nice."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "dev",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It brought the crime rate way down."
+        ],
+        "claim_list": [
+            "Whether or not in a place like Chicago you do stop and frisk, which worked very well, Mayor Giuliani is here, worked very well in New York."
+        ],
+        "argument": "It brought the crime rate way down. Whether or not in a place like Chicago you do stop and frisk, which worked very well, Mayor Giuliani is here, worked very well in New York.",
+        "scheme": "consequences",
+        "argument_id": "470e2e8d-ebdf-4f0c-b735-841de25cd2b1",
+        "id": "357890",
+        "file_id": [
+            "13987"
+        ],
+        "argument_list": [
+            "It brought the crime rate way down.",
+            "Whether or not in a place like Chicago you do stop and frisk, which worked very well, Mayor Giuliani is here, worked very well in New York."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "People around the word follow our presidential campaigns so closely, trying to get hints about what candidates will do."
+        ],
+        "claim_list": [
+            "We need to be more precise in how we talk about these issues."
+        ],
+        "argument": "We need to be more precise in how we talk about these issues. People around the word follow our presidential campaigns so closely, trying to get hints about what candidates will do.",
+        "scheme": "consequences",
+        "argument_id": "5f76e17b-3551-4925-a000-0a9424240107",
+        "id": "359853",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "We need to be more precise in how we talk about these issues.",
+            "People around the word follow our presidential campaigns so closely, trying to get hints about what candidates will do."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "That's a lot of new economic activity."
+        ],
+        "claim_list": [
+            "We can build a new modern electric grid."
+        ],
+        "argument": "We can build a new modern electric grid. That's a lot of new economic activity.",
+        "scheme": "consequences",
+        "argument_id": "67af60f7-0e47-4e31-8168-f0ac9e306cd0",
+        "id": "356326",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "We can build a new modern electric grid.",
+            "That's a lot of new economic activity."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "This is n't 40 years ago where we could do what we're doing."
+        ],
+        "claim_list": [
+            "Japan, Germany, South Korea and Saudi Arabia should pay a fair share."
+        ],
+        "argument": "This is n't 40 years ago where we could do what we're doing. Japan, Germany, South Korea and Saudi Arabia should pay a fair share.",
+        "scheme": "consequences",
+        "argument_id": "3437a3ee-5bd0-4ca2-800b-0181564ba25c",
+        "id": "359647",
+        "file_id": [
+            "13995"
+        ],
+        "argument_list": [
+            "This is n't 40 years ago where we could do what we're doing.",
+            "Japan, Germany, South Korea and Saudi Arabia should pay a fair share."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We have to restore trust between communities and the police."
+        ],
+        "claim_list": [
+            "We have to work to make sure that our police are using the best training, the best techniques, that they're well prepared to use force only when necessary."
+        ],
+        "argument": "We have to restore trust between communities and the police. We have to work to make sure that our police are using the best training, the best techniques, that they're well prepared to use force only when necessary.",
+        "scheme": "consequences",
+        "argument_id": "1198f20c-778e-4b2c-ab44-9173a6ec9196",
+        "id": "357767",
+        "file_id": [
+            "13986"
+        ],
+        "argument_list": [
+            "We have to restore trust between communities and the police.",
+            "We have to work to make sure that our police are using the best training, the best techniques, that they're well prepared to use force only when necessary."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "That was one of the great giveaways of all time, including $ 400 million in cash."
+        ],
+        "claim_list": [
+            "TRUMP asked KERRY why didn't they add other things into the deal."
+        ],
+        "argument": "TRUMP asked KERRY why didn't they add other things into the deal. That was one of the great giveaways of all time, including $ 400 million in cash.",
+        "scheme": "consequences",
+        "argument_id": "c7a5f316-720b-4a11-ad34-4ac6ca3e659d",
+        "id": "359766",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "TRUMP asked KERRY why didn't they add other things into the deal.",
+            "That was one of the great giveaways of all time, including $ 400 million in cash."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It has worked."
+        ],
+        "claim_list": [
+            "CLINTON gives credit across the board going back two mayors, two police chiefs."
+        ],
+        "argument": "CLINTON gives credit across the board going back two mayors, two police chiefs. It has worked.",
+        "scheme": "consequences",
+        "argument_id": "b1715695-4d2b-492a-aaa2-121785d12218",
+        "id": "358348",
+        "file_id": [
+            "13989"
+        ],
+        "argument_list": [
+            "CLINTON gives credit across the board going back two mayors, two police chiefs.",
+            "It has worked."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Our country is losing so much in terms of energy."
+        ],
+        "claim_list": [
+            "Our energy policies are a disaster."
+        ],
+        "argument": "Our energy policies are a disaster. Our country is losing so much in terms of energy.",
+        "scheme": "consequences",
+        "argument_id": "f6f39cb4-da89-4045-812c-f70f190e8738",
+        "id": "356353",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "Our energy policies are a disaster.",
+            "Our country is losing so much in terms of energy."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "China should go into North Korea."
+        ],
+        "claim_list": [
+            "TRUMP can't take anything off the table."
+        ],
+        "argument": "TRUMP can't take anything off the table. China should go into North Korea.",
+        "scheme": "consequences",
+        "argument_id": "390ec1cb-172c-4661-a9e0-c8149bbdb00c",
+        "id": "359736",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "TRUMP can't take anything off the table.",
+            "China should go into North Korea."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They can't work out a deal."
+        ],
+        "claim_list": [
+            "They're leaving instead of bringing the money back and putting the money to work."
+        ],
+        "argument": "They can't work out a deal. They're leaving instead of bringing the money back and putting the money to work.",
+        "scheme": "consequences",
+        "argument_id": "2352b651-2a51-4cf8-b6f4-7662ef716150",
+        "id": "356883",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "They can't work out a deal.",
+            "They're leaving instead of bringing the money back and putting the money to work."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It was n't enough to vote for every sanction against Iran."
+        ],
+        "claim_list": [
+            "CLINTON spent a year-and-a-half putting together a coalition that included Russia and China to impose the toughest sanctions on Iran."
+        ],
+        "argument": "It was n't enough to vote for every sanction against Iran. CLINTON spent a year-and-a-half putting together a coalition that included Russia and China to impose the toughest sanctions on Iran.",
+        "scheme": "consequences",
+        "argument_id": "4d1f1794-e769-413e-b182-9a3347ffc8a8",
+        "id": "359502",
+        "file_id": [
+            "13995"
+        ],
+        "argument_list": [
+            "It was n't enough to vote for every sanction against Iran.",
+            "CLINTON spent a year-and-a-half putting together a coalition that included Russia and China to impose the toughest sanctions on Iran."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "ISIS are in more and more states."
+        ],
+        "claim_list": [
+            "Right now it's getting tougher and tougher to defeat ISIS."
+        ],
+        "argument": "Right now it's getting tougher and tougher to defeat ISIS. ISIS are in more and more states.",
+        "scheme": "cause to effect",
+        "argument_id": "0a23d72e-8743-47f0-9518-25bee3f111c3",
+        "id": "359903",
+        "file_id": [
+            "13997"
+        ],
+        "argument_list": [
+            "Right now it's getting tougher and tougher to defeat ISIS.",
+            "ISIS are in more and more states."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP feels that they really wanted TRUMP to come to that conclusion."
+        ],
+        "claim_list": [
+            "When HOLT talks about healing, TRUMP thinks that TRUMP has developed very, very good relationships over the last little while with the African-American community."
+        ],
+        "argument": "When HOLT talks about healing, TRUMP thinks that TRUMP has developed very, very good relationships over the last little while with the African-American community. TRUMP feels that they really wanted TRUMP to come to that conclusion.",
+        "scheme": "cause to effect",
+        "argument_id": "965bedc1-c683-4535-8f58-5ff7c50a3477",
+        "id": "358591",
+        "file_id": [
+            "13990"
+        ],
+        "argument_list": [
+            "When HOLT talks about healing, TRUMP thinks that TRUMP has developed very, very good relationships over the last little while with the African-American community.",
+            "TRUMP feels that they really wanted TRUMP to come to that conclusion."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Russia has been expanding."
+        ],
+        "claim_list": [
+            "Russia has a much newer capability than USA do."
+        ],
+        "argument": "Russia has been expanding. Russia has a much newer capability than USA do.",
+        "scheme": "cause to effect",
+        "argument_id": "db2c2838-bfdd-4e63-97e6-34fa35fb290b",
+        "id": "359692",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "Russia has been expanding.",
+            "Russia has a much newer capability than USA do."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "When you look at what's happening in Mexico, a friend of mine who builds plants said it's the eighth wonder of the world."
+        ],
+        "claim_list": [
+            "We're losing our good jobs, so many of them."
+        ],
+        "argument": "We're losing our good jobs, so many of them. When you look at what's happening in Mexico, a friend of mine who builds plants said it's the eighth wonder of the world.",
+        "scheme": "cause to effect",
+        "argument_id": "bec2c746-b6a2-45b4-a33c-9e351aba4ad3",
+        "id": "355612",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "We're losing our good jobs, so many of them.",
+            "When you look at what's happening in Mexico, a friend of mine who builds plants said it's the eighth wonder of the world."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They were choking on the sanctions.",
+            "Now they're going to be actually probably a major power at some point pretty soon, the way they're going."
+        ],
+        "claim_list": [
+            "You look at the Middle East, you started the Iran deal, that's another beauty where you have a country that was ready to fall, they were doing so badly."
+        ],
+        "argument": "They were choking on the sanctions. You look at the Middle East, you started the Iran deal, that's another beauty where you have a country that was ready to fall, they were doing so badly. Now they're going to be actually probably a major power at some point pretty soon, the way they're going.",
+        "scheme": "cause to effect",
+        "argument_id": "7ded530b-4b9f-4d32-8246-9036b08bef60",
+        "id": "359221",
+        "file_id": [
+            "13993"
+        ],
+        "argument_list": [
+            "They were choking on the sanctions.",
+            "You look at the Middle East, you started the Iran deal, that's another beauty where you have a country that was ready to fall, they were doing so badly.",
+            "Now they're going to be actually probably a major power at some point pretty soon, the way they're going."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "USA can not be the policemen of the world."
+        ],
+        "claim_list": [
+            "USA can not protect countries all over the world."
+        ],
+        "argument": "USA can not be the policemen of the world. USA can not protect countries all over the world.",
+        "scheme": "cause to effect",
+        "argument_id": "6ac3edd8-1cdb-402a-831b-60c833ccdabf",
+        "id": "359923",
+        "file_id": [
+            "13997"
+        ],
+        "argument_list": [
+            "USA can not be the policemen of the world.",
+            "USA can not protect countries all over the world."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We can build a new modern electric grid."
+        ],
+        "claim_list": [
+            "We can have enough clean energy to power every home."
+        ],
+        "argument": "We can build a new modern electric grid. We can have enough clean energy to power every home.",
+        "scheme": "cause to effect",
+        "argument_id": "1ee4ae65-0c89-4dbd-a0cf-01a6ff5539af",
+        "id": "356318",
+        "file_id": [
+            "13979"
+        ],
+        "argument_list": [
+            "We can build a new modern electric grid.",
+            "We can have enough clean energy to power every home."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Much of it amplified by shootings of African-Americans by police."
+        ],
+        "claim_list": [
+            "The share of Americans who say race relations are bad in this country is the highest it's been in decades."
+        ],
+        "argument": "Much of it amplified by shootings of African-Americans by police. The share of Americans who say race relations are bad in this country is the highest it's been in decades.",
+        "scheme": "cause to effect",
+        "argument_id": "1aa87fce-302d-46b7-a366-194f1b056432",
+        "id": "357723",
+        "file_id": [
+            "13986"
+        ],
+        "argument_list": [
+            "Much of it amplified by shootings of African-Americans by police.",
+            "The share of Americans who say race relations are bad in this country is the highest it's been in decades."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Unfortunately, race still determines too much."
+        ],
+        "claim_list": [
+            "Race remains a significant challenge in our country."
+        ],
+        "argument": "Race remains a significant challenge in our country. Unfortunately, race still determines too much.",
+        "scheme": "cause to effect",
+        "argument_id": "e8dbc640-e46c-41d4-aecb-d631f75aa3dc",
+        "id": "357744",
+        "file_id": [
+            "13986"
+        ],
+        "argument_list": [
+            "Race remains a significant challenge in our country.",
+            "Unfortunately, race still determines too much."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Taxes are too high."
+        ],
+        "claim_list": [
+            "They're leaving."
+        ],
+        "argument": "Taxes are too high. They're leaving.",
+        "scheme": "cause to effect",
+        "argument_id": "2a54aa62-2e7b-4c28-be88-5e85219bde09",
+        "id": "356874",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "Taxes are too high.",
+            "They're leaving."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "These countries, especially China, are giving incentives."
+        ],
+        "claim_list": [
+            "USA is in deep trouble."
+        ],
+        "argument": "USA is in deep trouble. These countries, especially China, are giving incentives.",
+        "scheme": "cause to effect",
+        "argument_id": "76b5cb86-cd82-4f35-9312-7933b66821a7",
+        "id": "355803",
+        "file_id": [
+            "13977"
+        ],
+        "argument_list": [
+            "USA is in deep trouble.",
+            "These countries, especially China, are giving incentives."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "In Chicago, they've had thousands of shootings, thousands since January 1st."
+        ],
+        "claim_list": [
+            "You walk down the street, you get shot."
+        ],
+        "argument": "You walk down the street, you get shot. In Chicago, they've had thousands of shootings, thousands since January 1st.",
+        "scheme": "example",
+        "argument_id": "4577b21b-e2f7-4ad4-88f1-8b9c2636b643",
+        "id": "357855",
+        "file_id": [
+            "13987"
+        ],
+        "argument_list": [
+            "You walk down the street, you get shot.",
+            "In Chicago, they've had thousands of shootings, thousands since January 1st."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "CLINTON believes strongly that commonsense gun safety measures would assist."
+        ],
+        "claim_list": [
+            "There are things we can do."
+        ],
+        "argument": "CLINTON believes strongly that commonsense gun safety measures would assist. There are things we can do.",
+        "scheme": "example",
+        "argument_id": "35978168-8b4f-43a6-bb17-8378898298ba",
+        "id": "358192",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "CLINTON believes strongly that commonsense gun safety measures would assist.",
+            "There are things we can do."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "USA is hoping that within the year USA will be able to really squeeze ISIS in Syria."
+        ],
+        "claim_list": [
+            "USA is making progress."
+        ],
+        "argument": "USA is making progress. USA is hoping that within the year USA will be able to really squeeze ISIS in Syria.",
+        "scheme": "example",
+        "argument_id": "b87e17fc-0b3f-4329-945b-e7bca4f88acf",
+        "id": "358990",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "USA is making progress.",
+            "USA is hoping that within the year USA will be able to really squeeze ISIS in Syria."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "If there were nuclear war in East Asia, that's fine."
+        ],
+        "claim_list": [
+            "In fact, TRUMP's cavalier attitude about nuclear weapons is so deeply troubling."
+        ],
+        "argument": "If there were nuclear war in East Asia, that's fine. In fact, TRUMP's cavalier attitude about nuclear weapons is so deeply troubling.",
+        "scheme": "example",
+        "argument_id": "7ae1f4db-673b-4526-94cf-06858eaee153",
+        "id": "359565",
+        "file_id": [
+            "13995"
+        ],
+        "argument_list": [
+            "If there were nuclear war in East Asia, that's fine.",
+            "In fact, TRUMP's cavalier attitude about nuclear weapons is so deeply troubling."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "When I look at what's going on in Charlotte, a city I love, a city where I have investments, when I look at what's going on throughout various parts of our country, whether it's\u2014I mean, I can just keep naming them all day long."
+        ],
+        "claim_list": [
+            "If we don't have it, we're not going to have a country."
+        ],
+        "argument": "When I look at what's going on in Charlotte, a city I love, a city where I have investments, when I look at what's going on throughout various parts of our country, whether it's\u2014I mean, I can just keep naming them all day long. If we don't have it, we're not going to have a country.",
+        "scheme": "example",
+        "argument_id": "4ac2f60a-4bd3-4aa7-b724-5c75e762faeb",
+        "id": "357832",
+        "file_id": [
+            "13987"
+        ],
+        "argument_list": [
+            "When I look at what's going on in Charlotte, a city I love, a city where I have investments, when I look at what's going on throughout various parts of our country, whether it's\u2014I mean, I can just keep naming them all day long.",
+            "If we don't have it, we're not going to have a country."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We also have to look at how we help families balance the responsibilities at home and the responsibilities at business."
+        ],
+        "claim_list": [
+            "CLINTON has a very robust set of plans."
+        ],
+        "argument": "We also have to look at how we help families balance the responsibilities at home and the responsibilities at business. CLINTON has a very robust set of plans.",
+        "scheme": "example",
+        "argument_id": "314701d6-5ac3-47e1-9335-52ec4d5884d1",
+        "id": "356623",
+        "file_id": [
+            "13981"
+        ],
+        "argument_list": [
+            "We also have to look at how we help families balance the responsibilities at home and the responsibilities at business.",
+            "CLINTON has a very robust set of plans."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Our airports are like from a third world country."
+        ],
+        "claim_list": [
+            "We've become a third world country."
+        ],
+        "argument": "Our airports are like from a third world country. We've become a third world country.",
+        "scheme": "example",
+        "argument_id": "144333d3-6e2f-4302-8148-c21af4b9746f",
+        "id": "357476",
+        "file_id": [
+            "13984"
+        ],
+        "argument_list": [
+            "Our airports are like from a third world country.",
+            "We've become a third world country."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "He started his business with $ 14 million, borrowed from his father."
+        ],
+        "claim_list": [
+            "TRUMP was very fortunate in TRUMP's life, and that's all to TRUMP's benefit."
+        ],
+        "argument": "TRUMP was very fortunate in TRUMP's life, and that's all to TRUMP's benefit. He started his business with $ 14 million, borrowed from his father.",
+        "scheme": "example",
+        "argument_id": "ac3b10c1-2aeb-4faf-a63d-5892749fe62d",
+        "id": "355734",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "TRUMP was very fortunate in TRUMP's life, and that's all to TRUMP's benefit.",
+            "He started his business with $ 14 million, borrowed from his father."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They can't bring the money back from the overseas."
+        ],
+        "claim_list": [
+            "Is so bad."
+        ],
+        "argument": "They can't bring the money back from the overseas. Is so bad.",
+        "scheme": "example",
+        "argument_id": "b70317cd-347a-4e30-b44c-faf9410e6fa1",
+        "id": "356861",
+        "file_id": [
+            "13982"
+        ],
+        "argument_list": [
+            "They can't bring the money back from the overseas.",
+            "Is so bad."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We should be proud of the vibrancy of the black church."
+        ],
+        "claim_list": [
+            "There's a lot that we should be proud of and we should be supporting and lifting up."
+        ],
+        "argument": "We should be proud of the vibrancy of the black church. There's a lot that we should be proud of and we should be supporting and lifting up.",
+        "scheme": "example",
+        "argument_id": "8d1acd51-6549-4d43-979b-b51210eaea64",
+        "id": "358074",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "We should be proud of the vibrancy of the black church.",
+            "There's a lot that we should be proud of and we should be supporting and lifting up."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "You look at the Middle East, you started the Iran deal, that's another beauty where you have a country that was ready to fall, they were doing so badly."
+        ],
+        "claim_list": [
+            "Under CLINTON's direction, to a large extent."
+        ],
+        "argument": "Under CLINTON's direction, to a large extent. You look at the Middle East, you started the Iran deal, that's another beauty where you have a country that was ready to fall, they were doing so badly.",
+        "scheme": "example",
+        "argument_id": "55441bbc-58e7-490e-969a-bf2a3157c7fd",
+        "id": "359225",
+        "file_id": [
+            "13993"
+        ],
+        "argument_list": [
+            "Under CLINTON's direction, to a large extent.",
+            "You look at the Middle East, you started the Iran deal, that's another beauty where you have a country that was ready to fall, they were doing so badly."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We've seen recently in Charlotte and Tulsa."
+        ],
+        "claim_list": [
+            "Much of it amplified by shootings of African-Americans by police."
+        ],
+        "argument": "Much of it amplified by shootings of African-Americans by police. We've seen recently in Charlotte and Tulsa.",
+        "scheme": "example",
+        "argument_id": "c00df2e0-9971-40fe-93c4-40a727d81293",
+        "id": "357727",
+        "file_id": [
+            "13986"
+        ],
+        "argument_list": [
+            "Much of it amplified by shootings of African-Americans by police.",
+            "We've seen recently in Charlotte and Tulsa."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We don't have the money."
+        ],
+        "claim_list": [
+            "Our country has tremendous problems."
+        ],
+        "argument": "Our country has tremendous problems. We don't have the money.",
+        "scheme": "example",
+        "argument_id": "7e27699f-1c3d-46aa-b620-02b657b6f84c",
+        "id": "357549",
+        "file_id": [
+            "13984"
+        ],
+        "argument_list": [
+            "Our country has tremendous problems.",
+            "We don't have the money."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP doesn't care if other nations got nuclear weapons, Japan, South Korea, even Saudi Arabia."
+        ],
+        "claim_list": [
+            "The worst part of what we heard TRUMP say has been about nuclear weapons."
+        ],
+        "argument": "The worst part of what we heard TRUMP say has been about nuclear weapons. TRUMP doesn't care if other nations got nuclear weapons, Japan, South Korea, even Saudi Arabia.",
+        "scheme": "example",
+        "argument_id": "b9eb1a88-b33f-414b-845f-73a744d1369b",
+        "id": "359545",
+        "file_id": [
+            "13995"
+        ],
+        "argument_list": [
+            "The worst part of what we heard TRUMP say has been about nuclear weapons.",
+            "TRUMP doesn't care if other nations got nuclear weapons, Japan, South Korea, even Saudi Arabia."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Chicago's not the only."
+        ],
+        "claim_list": [
+            "One needs relation."
+        ],
+        "argument": "One needs relation. Chicago's not the only.",
+        "scheme": "example",
+        "argument_id": "67d7bbff-4188-4b8e-b125-b66d749ad5ed",
+        "id": "357997",
+        "file_id": [
+            "13988"
+        ],
+        "argument_list": [
+            "One needs relation.",
+            "Chicago's not the only."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "They're going to Mexico.",
+            "All you have to do is take a look at Carrier air conditioning in Indianapolis.",
+            "They left\u2014fired 1,400 people.",
+            "So many hundreds and hundreds of companies are doing this."
+        ],
+        "claim_list": [
+            "We have to stop our companies from leaving the United States and, with it, firing all of their people."
+        ],
+        "argument": "They're going to Mexico. We have to stop our companies from leaving the United States and, with it, firing all of their people. All you have to do is take a look at Carrier air conditioning in Indianapolis. They left\u2014fired 1,400 people. So many hundreds and hundreds of companies are doing this.",
+        "scheme": "example",
+        "argument_id": "16de93e7-ab7b-42a3-8e0e-7da6081212a3",
+        "id": "355661",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "They're going to Mexico.",
+            "We have to stop our companies from leaving the United States and, with it, firing all of their people.",
+            "All you have to do is take a look at Carrier air conditioning in Indianapolis.",
+            "They left\u2014fired 1,400 people.",
+            "So many hundreds and hundreds of companies are doing this."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "The thousands of people that TRUMP has stiffed over the course of his business deserve some kind of apology from someone who has taken their labor, taken the goods that they produced, and then refused to pay them."
+        ],
+        "claim_list": [
+            "CLINTON can only say that she's certainly relieved that her late father never did business with TRUMP."
+        ],
+        "argument": "The thousands of people that TRUMP has stiffed over the course of his business deserve some kind of apology from someone who has taken their labor, taken the goods that they produced, and then refused to pay them. CLINTON can only say that she's certainly relieved that her late father never did business with TRUMP.",
+        "scheme": "values",
+        "argument_id": "0807ba79-af77-4333-85db-e819c276a81b",
+        "id": "357602",
+        "file_id": [
+            "13985"
+        ],
+        "argument_list": [
+            "The thousands of people that TRUMP has stiffed over the course of his business deserve some kind of apology from someone who has taken their labor, taken the goods that they produced, and then refused to pay them.",
+            "CLINTON can only say that she's certainly relieved that her late father never did business with TRUMP."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It is essential that America's word be good."
+        ],
+        "claim_list": [
+            "CLINTON wants to reassure USA allies in Japan and South Korea and elsewhere that USA have mutual defense treaties and USA will honor them."
+        ],
+        "argument": "It is essential that America's word be good. CLINTON wants to reassure USA allies in Japan and South Korea and elsewhere that USA have mutual defense treaties and USA will honor them.",
+        "scheme": "values",
+        "argument_id": "96ac8042-71ee-4fa4-9884-9bac4631cbe1",
+        "id": "359812",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "It is essential that America's word be good.",
+            "CLINTON wants to reassure USA allies in Japan and South Korea and elsewhere that USA have mutual defense treaties and USA will honor them."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "USA have to be cognizant of the fact that ISIS has had foreign fighters coming to volunteer for them."
+        ],
+        "claim_list": [
+            "We have to make this the top priority."
+        ],
+        "argument": "USA have to be cognizant of the fact that ISIS has had foreign fighters coming to volunteer for them. We have to make this the top priority.",
+        "scheme": "values",
+        "argument_id": "e4f27d28-49d6-439e-ad99-3cf23e256759",
+        "id": "359001",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "USA have to be cognizant of the fact that ISIS has had foreign fighters coming to volunteer for them.",
+            "We have to make this the top priority."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "Perhaps we're not better than anybody else."
+        ],
+        "claim_list": [
+            "As far as the cyber attacks, TRUMP agrees to parts of what CLINTON said."
+        ],
+        "argument": "As far as the cyber attacks, TRUMP agrees to parts of what CLINTON said. Perhaps we're not better than anybody else.",
+        "scheme": "values",
+        "argument_id": "e870bb4f-3650-4743-b0a1-361b8d735c15",
+        "id": "358865",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "As far as the cyber attacks, TRUMP agrees to parts of what CLINTON said.",
+            "Perhaps we're not better than anybody else."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP wants to get on to things that are very important to TRUMP and that are very important to the country."
+        ],
+        "claim_list": [
+            "TRUMP's satisfied with it."
+        ],
+        "argument": "TRUMP's satisfied with it. TRUMP wants to get on to things that are very important to TRUMP and that are very important to the country.",
+        "scheme": "values",
+        "argument_id": "6fb4b240-7435-4669-8a22-23b418ab35c7",
+        "id": "358486",
+        "file_id": [
+            "13990"
+        ],
+        "argument_list": [
+            "TRUMP's satisfied with it.",
+            "TRUMP wants to get on to things that are very important to TRUMP and that are very important to the country."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "We should be better than anybody else."
+        ],
+        "claim_list": [
+            "As far as the cyber attacks, TRUMP agrees to parts of what CLINTON said."
+        ],
+        "argument": "We should be better than anybody else. As far as the cyber attacks, TRUMP agrees to parts of what CLINTON said.",
+        "scheme": "values",
+        "argument_id": "20f64e4d-b8b9-44ef-908e-e576c791ae91",
+        "id": "358862",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "We should be better than anybody else.",
+            "As far as the cyber attacks, TRUMP agrees to parts of what CLINTON said."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It is essential that America's word be good."
+        ],
+        "claim_list": [
+            "Words matter when you run for president."
+        ],
+        "argument": "Words matter when you run for president. It is essential that America's word be good.",
+        "scheme": "values",
+        "argument_id": "8df79ad9-691f-4553-9be3-7edfef038154",
+        "id": "359817",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "Words matter when you run for president.",
+            "It is essential that America's word be good."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "USA have to be cognizant of the fact that ISIS has had foreign money."
+        ],
+        "claim_list": [
+            "We have to make this the top priority."
+        ],
+        "argument": "USA have to be cognizant of the fact that ISIS has had foreign money. We have to make this the top priority.",
+        "scheme": "values",
+        "argument_id": "93239e09-a207-4d37-a3f8-5ca7523bc851",
+        "id": "358998",
+        "file_id": [
+            "13992"
+        ],
+        "argument_list": [
+            "USA have to be cognizant of the fact that ISIS has had foreign money.",
+            "We have to make this the top priority."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "If you help create the profits, you should be able to share in them, not just the executives at the top."
+        ],
+        "claim_list": [
+            "CLINTON also wants to see more companies do profit-sharing."
+        ],
+        "argument": "If you help create the profits, you should be able to share in them, not just the executives at the top. CLINTON also wants to see more companies do profit-sharing.",
+        "scheme": "values",
+        "argument_id": "438202e7-98ce-488e-bcf0-a90a09a9fb32",
+        "id": "355535",
+        "file_id": [
+            "13975"
+        ],
+        "argument_list": [
+            "If you help create the profits, you should be able to share in them, not just the executives at the top.",
+            "CLINTON also wants to see more companies do profit-sharing."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "It is essential that America's word be good."
+        ],
+        "claim_list": [
+            "Words really matter when you are president."
+        ],
+        "argument": "Words really matter when you are president. It is essential that America's word be good.",
+        "scheme": "values",
+        "argument_id": "bc59090a-92d0-4ab6-ad45-827da03c7643",
+        "id": "359814",
+        "file_id": [
+            "13996"
+        ],
+        "argument_list": [
+            "Words really matter when you are president.",
+            "It is essential that America's word be good."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    },
+    {
+        "premise_list": [
+            "TRUMP owes the audience the answers to that questions."
+        ],
+        "claim_list": [
+            "TRUMP should provide the answers to that questions."
+        ],
+        "argument": "TRUMP owes the audience the answers to that questions. TRUMP should provide the answers to that questions.",
+        "scheme": "values",
+        "argument_id": "c5e77c22-84a0-4dbd-bf12-0f4124d85e03",
+        "id": "357324",
+        "file_id": [
+            "13984"
+        ],
+        "argument_list": [
+            "TRUMP owes the audience the answers to that questions.",
+            "TRUMP should provide the answers to that questions."
+        ],
+        "dataset_name": "ustv2016_split",
+        "split": "test",
+        "collection": "ustv2016_split",
+        "experiment_nbr": 1,
+        "split_identifier": "split_schemes"
+    }
+]
